@@ -20,16 +20,16 @@ This project aims to analyze the prices of laptops available on Flipkart based o
 
 ### Usage
 
-1. **Data Collection**: Run the data collection script (`data_collection.py`) to fetch laptop listings from Flipkart.
+1. **Data Collection**: Run the data collection script (`scraping_data_flipkart.ipynb`) to fetch laptop listings from Flipkart.
    
    ```bash
-   python data_collection.py
+   jupyter notebook scraping_data_flipkart.ipynb
    ```
 
-2. **Data Analysis**: Use Jupyter Notebook (`analysis.ipynb`) to explore and analyze the collected data.
+2. **Data Analysis**: Use Jupyter Notebook (`flipkart_laptops.ipynb`) to explore and analyze the collected data.
 
    ```bash
-   jupyter notebook analysis.ipynb
+   jupyter notebook flipkart_laptops.ipynb
    ```
 
 3. **Visualization**: Generate visualizations to present findings and insights from the analysis.
@@ -37,10 +37,10 @@ This project aims to analyze the prices of laptops available on Flipkart based o
 ### Directory Structure
 
 ```
-|- `data/`                # Directory containing necessary data files
-|- data_collection.py     # Script for data scraping or API access
-|- analysis.ipynb         # Jupyter Notebook for data analysis
-|- README.md              # Documentation file
+|- `data/`                           # Directory containing necessary data files
+|- scraping_data_flipkart.ipynb      # Script for data scraping or API access
+|- flipkart_laptops.ipynb            # Jupyter Notebook for data analysis
+|- README.md                         # Documentation file
 
 ```
 
@@ -49,8 +49,8 @@ This project aims to analyze the prices of laptops available on Flipkart based o
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/laptop-price-analysis.git
-   cd laptop-price-analysis
+   git clone https://github.com/your_username/flipkart_laptops.git
+   cd flipkart_laptops
    ```
 
 2. **Install dependencies:**
@@ -59,7 +59,7 @@ This project aims to analyze the prices of laptops available on Flipkart based o
 
 3. **Open and run the notebook:**
 
-   Launch Jupyter Notebook and open `laptop_price_analysis.ipynb`. Execute each cell to replicate the analysis or explore the findings interactively.
+   Launch Jupyter Notebook and open `flipkart_laptops.ipynb`. Execute each cell to replicate the analysis or explore the findings interactively.
 
 4. **Explore the analysis:**
 
