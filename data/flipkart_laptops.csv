@@ -1,0 +1,937 @@
+,brand,model,processor,ram,memory,ratings,reviews,ram_version,display_inch,warranty,price
+0,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+1,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+2,Colorful,Evol P-15,Core i5 12th Gen 12450H,16,512,,,DDR5,15.6,2,65640
+3,Lenovo,V15 Intel Celeron,Celeron Dual Core 4th Gen,8,256,,189,DDR4,15.6,1,19990
+4,ASUS,X1502ZA Intel Core,Core i5 12th Gen 1235U,8,512,3.813 ,3,DDR4,15.6,,45900
+5,HP,AMD Ryzen 3,Ryzen 3 Quad Core 5300U,8,512,"4.23,375 ",353,DDR4,15.6,1,32191
+6,Apple,2020 Macbook Air,2020 Macbook Air Apple M1,8,256,"4.714,230 ",180,DDR4,13.3,1,73990
+7,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+8,ZEBRONICS,Pro Series Z,Core i5 12th Gen 1235U,16,512,3.8188 ,41,DDR4,15.6,1,34990
+9,DELL,Intel Core i3,Core i3 12th Gen 1215U,8,512,"4.21,359 ",172,DDR4,,1,34990
+10,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+11,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+12,Lenovo,V15 AMD Ryzen,Ryzen 3 Quad Core 7320U,8,512,4.3340 ,47,DDR5,,1,27990
+13,Lenovo,IdeaPad Slim 3,Core i3 12th Gen 1215U,8,512,4.2683 ,47,DDR4,15.6,1,35990
+14,HP,245G9 AMD Ryzen,Core AMD Ryzen 3 3250U,8,512,4.2428 ,20,DDR4,14,1,25999
+15,DELL,Intel Core i3,Core i3 12th Gen 1215U,8,512,4.2775 ,92,DDR4,15.6,1,35490
+16,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+17,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+18,HP,255 G9 AMD Ryzen,3 Dual Core R3 3250,8,512,4.1287 ,24,DDR4,15.6,1,25999
+19,DELL,Vostro 3420 Business,Intel Core i5 11th Gen,8,512,3.723 ,3,DDR4,14,1,39990
+20,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+21,ZEBRONICS,Thin and Light,Core i7 12th Gen 1255U,16,1,3.982 ,7,DDR4,15.6,1,43990
+22,HP,AMD Ryzen 5,Ryzen 5 Hexa Core 5500U,8,512,"4.32,793 ",238,DDR4,15.6,1,37990
+23,ASUS,Vivobook 15 Intel Core,Core i3 12th Gen 1215U,16,512,"4.32,139 ",228,DDR4,15.6,1,41990
+24,Lenovo,IdeaPad Slim 3,Core i3 12th Gen 1215U,8,256,4.1660 ,58,DDR4,15.6,1,31990
+25,MSI,Katana 15 Intel Core,Core i5 12th Gen 12450H,8,512,4.288 ,10,DDR5,15.6,2,81990
+26,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+27,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+28,MSI,GF63 Intel Core,Core i7 12th Gen 12650H,16,1,4.4200 ,12,DDR4,15.6,2,96990
+29,ZEBRONICS,Thin and Light,Core i7 12th Gen 1255U,16,512,3.982 ,7,DDR4,15.6,1,40990
+30,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+31,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+32,Infinix,INBook X2 Plus Intel,Core i3 11th Gen 1115G4,8,256,4.2594 ,106,DDR4X,15.6,1,25990
+33,ASUS,TUF Gaming F15,Core i5 11th Gen 11400H,16,512,"4.52,283 ",240,DDR4,15.6,1,59990
+34,ASUS,TUF Gaming F15,Core i5 11th Gen 11260H,16,512,"4.34,325 ",433,DDR4,15.6,1,52990
+35,CHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+36,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+37,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+38,ASUS,Vivobook Pro 15,Ryzen 5 Hexa Core 5600HS,8,512,"4.41,201 ",130,DDR4,15.6,1,59990
+39,HP,2023 Intel Core,Core i5 12th Gen 1235U,8,512,"4.21,026 ",71,DDR4,15.6,1,49990
+40,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+41,Acer,Aspire 3 Intel,Core i3 12th Gen 1215U,8,512,4.4210 ,19,DDR4,15.6,1,32990
+42,CHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,14.1,1,16990
+43,HP,G9245 Silver 841w7paA,Core AMD Ryzen 3 3250U,8,512,3.956 ,3,DDR4,14,1,23999
+44,MSI,Modern 15 AMD Ryzen,Ryzen 5 Hexa Core 7530U,8,512,4.3532 ,69,DDR4,15.6,1,36990
+45,HP,255 G9 841W6pa,AMD Ryzen 3 Dual Core,8,512,3.7177 ,15,DDR4,15.6,1,23990
+46,ASUS,Vivobook 15 Intel Core,Core i3 11th Gen 1115G4,8,256,"4.32,965 ",307,DDR4,15.6,1,29990
+47,Infinix,Y1 Plus Neo,Core 11th Gen JSL N5100,8,512,,554,DDR4X,,1,22990
+48,DELL,Intel Core i3,Core i3 12th Gen 1215U,8,512,4.2775 ,92,DDR4,15.6,1,36390
+49,MSI,Modern 14 Intel Core,Core i5 11th Gen 1155G7,8,512,"4.21,268 ",163,DDR4,14,1,36990
+50,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+51,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+52,MSI,Modern 14 AMD Ryzen,Ryzen 5 Hexa Core 7530U,8,512,4.3532 ,69,DDR4,14,1,33990
+53,HP,Pavilion x360 Intel,Core i3 12th Gen 1215U,8,512,4.367 ,5,DDR4,14,1,55208
+54,MSI,GF63 Intel Core,Core i5 11th Gen 11260H,8,512,"4.21,117 ",121,DDR4,15.6,2,52990
+55,ASUS,Vivobook Go 15,Ryzen 5 Quad Core 7520U,8,512,"4.41,233 ",124,DDR5,15.6,1,50990
+56,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+57,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+58,ASUS,Vivobook S14 OLED,Core i5 12th Gen 12500H,16,512,"4.43,502 ",379,DDR4,14,1,74990
+59,DELL,Intel Core i5,Core i5 12th Gen 1235U,8,512,4.2121 ,9,DDR4,15.6,1,46290
+60,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+61,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+62,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,16,512,4.3872 ,74,DDR4,15.6,1,62900
+63,Primebook,4G Android Based,4G Android Based MediaTek MT8788,4,64,"4.22,759 ",849,DDR4,11.6,1,13990
+64,ASUS,TUF Gaming F15,Core i5 11th Gen 11260H,8,512,"4.34,325 ",433,DDR4,15.6,1,48990
+65,Lenovo,V15 Series AMD,AMD Athlon Dual Core 7120U,8,512,4.2206 ,19,DDR5,15.6,1,24162
+66,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+67,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+68,DELL,Inspiron 15 3520,i5 12th Gen Core i5,16,512,,15,DDR4,15.6,1,52200
+69,ASUS,Intel Core i5,Intel Core i5 10th Gen,8,1,4.54 ,0,DDR4,15.6,,48990
+70,HP,14s Intel Core,Core i3 11th Gen 1115G4,8,256,"4.312,221 ",944,DDR4,14,1,37250
+71,Lenovo,V15 Intel Core,Core i3 12th Gen 1215U,8,512,4.2214 ,16,DDR4,15.6,1,32500
+72,CHUWI,Intel Celeron Dual,Dual Core 10th Gen N4020,4,128,3.647 ,5,DDR4,11.6,1,12990
+73,ASUS,Vivobook 16 (2023,Core i3 13th Gen 1315U,8,512,4.4181 ,21,DDR4,16,1,42990
+74,HP,Pavilion Gaming AMD,Ryzen 5 Quad Core 3550H,8,1,"4.215,596 ",055,DDR4,15.6,1,51000
+75,HP,2023 AMD Ryzen,Ryzen 3 Dual Core 3250U,8,512,"4.24,082 ",353,DDR4,15.6,1,31990
+76,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+77,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+78,ZEBRONICS,Pro Series Z,Core i5 12th Gen 1235U,8,512,3.8188 ,41,DDR4,15.6,1,33990
+79,ASUS,Vivobook S 14,Ryzen 5 Hexa Core 5600HS,8,512,4.4415 ,46,DDR4,14,1,58990
+80,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+81,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+82,WINGS,Nuvobook V1 Aluminium Alloy,Core i5 11th Gen 1155G7,8,512,"4.11,827 ",364,DDR4,15.6,1,27990
+83,MSI,Modern 14 Intel Core,Core i3 12th Gen 1215U,8,512,4.3317 ,47,DDR4,14,1,32990
+84,ASUS,Vivobook Go 14,Ryzen 3 Quad Core 7320U,8,512,4.434 ,2,DDR5,14.1,1,33990
+85,SAMSUNG,Galaxy Book2 Intel,Core i5 12th Gen 1235U,8,256,4.5209 ,31,DDR4X,15.6,1,56990
+86,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+87,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+88,HP,250 G9 Intel Core,Core i3 12th Gen 1215U,8,512,4.326 ,2,DDR4,15.6,1,34989
+89,ASUS,Vivobook 15 Intel Core,,8,512,4.196 ,12,DDR4,15.6,0211,42990
+90,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+91,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+92,DELL,Inspiron 3511 Intel,Intel Core i5 11th Gen,8,512,,5,DDR4,15.6,1,42990
+93,Lenovo,ThinkPad E14 AMD,Ryzen 5 Hexa Core 7530U,16,512,4.712 ,1,DDR4,14,1,52990
+94,HP,240 G8 Intel Core,Intel Core i3 11th Gen,8,512,,,DDR4,14,1,31890
+95,HP,AMD Ryzen 5,AMD Ryzen 5 Quad Core,8,512,,,DDR4,15.6,,39990
+96,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+97,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+98,Lenovo,AMD Ryzen 5,Ryzen 5 Hexa Core 7530U,16,512,,0,DDR4,15.6,1,41990
+99,HP,15s Intel Core,Core i3 12th Gen 1215U,8,512,"4.34,216 ",422,DDR4,15.6,0211,37699
+100,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+101,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+102,Infinix,X3 Slim Intel,Core i7 12th Gen 1255U,16,512,4.3103 ,13,DDR4X,14,1,43990
+103,Lenovo,ThinkBook 15 G5 AMD,Ryzen 5 Hexa Core 7530U,8,512,4.26 ,0,DDR4,15.6,1,38990
+104,Infinix,X3 Slim Intel,Core i3 12th Gen 1215U,8,512,"4.11,227 ",175,DDR4X,14,1,29990
+105,HP,Intel Core i3,Core i3 12th Gen 1215U,8,512,"4.34,216 ",422,DDR4,15.6,0211,37490
+106,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+107,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+108,ASUS,TUF Gaming F17,Core i5 11th Gen 11260H,8,512,,,DDR4,17.3,1,51990
+109,HP,AMD Ryzen 7,Ryzen 7 Octa Core 5700U,16,1,,,DDR4,15.6,1,63990
+110,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+111,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+112,Lenovo,IdeaPad Slim 3,Intel Celeron Dual Core N4020,8,256,,17,DDR4,15.6,2,25890
+113,Infinix,Y1 Plus Neo,Core 11th Gen JSL N5100,8,512,,554,DDR4X,,1,22990
+114,HP,Envy x360 Creator,Core i5 12th Gen 1230U,16,512,4.493 ,16,DDR4X,13.3,1,87990
+115,DELL,Inspiron Intel Core,Core i3 12th Gen 1215U,8,512,,5,DDR4,15.6,0211,35990
+116,MSI,GF63 Intel Core,Core i7 11th Gen 11800H,16,1,4.3470 ,44,DDR4,15.6,2,63990
+117,DELL,Inspiron Intel Core,Core i3 12th Gen 1215U,8,512,3.823 ,2,DDR4,15.6,0211,36990
+118,ASUS,VivoBook 15 Intel Core,Core i3 10th Gen 1005G1,4,1,"3.74,654 ",545,DDR4,15.6,1,28990
+119,HP,15s Intel Core,Core i5 12th Gen 1235U,16,512,4.1303 ,31,DDR4,15.6,1,53499
+120,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+121,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+122,ASUS,TUF Gaming F15,Core i5 11th Gen 11400H,8,512,4.4178 ,19,DDR4,15.6,1,49990
+123,HP,Laptop Intel Core,Core i5 12th Gen 1235U,8,512,4.77 ,0,DDR4,15.6,1,49990
+124,HP,2023 Intel Core,Core i5 11th Gen 1155G7,16,512,"4.33,630 ",272,DDR4,15.6,1,51490
+125,Lenovo,IdeaPad Slim 5,Intel Core Ultra 5 125H,16,1,4.460 ,15,DDR5X,16,1,75990
+126,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+127,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+128,Acer,One Intel Core,Core i3 11th Gen 1115G4,8,512,"4.26,027 ",546,DDR4,14,1,29990
+129,HP,Intel Pentium Quad,Intel Pentium Quad Core N6000,8,512,,,DDR4,15.6,1,31490
+130,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+131,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+132,Lenovo,IdeaPad Slim 3,Core i5 12th Gen 12450H,16,512,,,DDR5,14,1,54990
+133,Infinix,Intel Core i5,Core i5 11th Gen 1155G7,16,512,4.1257 ,43,DDR4X,14,1,32990
+134,Infinix,Inbook Y2 Plus Intel,Core i3 11th Gen 1115G4,8,512,"4.11,223 ",181,DDR4X,15.6,1,25490
+135,Lenovo,ThinkBook 15 AMD Ryzen,Ryzen 7 Octa Core 7730U,8,512,3.922 ,3,DDR4,15.6,1,46215
+136,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+137,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+138,HP,fq2673TU Intel Core,Core i3 11th Gen 1115G4,8,512,3.816 ,1,DDR4,15.6,1,34900
+139,HP,Victus AMD Ryzen,Ryzen 7 Octa Core 5800H,16,512,4.4393 ,31,DDR4,15.6,1,68990
+140,ASUS,Vivobook 15 Intel Core,Core i5 12th Gen 1235U,8,512,"4.11,142 ",85,DDR4,15.6,1,50990
+141,MSI,Modern 14 Intel Core,Core i5 12th Gen 1235U,16,512,4.2597 ,84,DDR4,14,1,40990
+142,MSI,GF63 Intel Core,Core i5 11th Gen 11260H,16,512,4.2170 ,19,DDR4,15.6,2,58990
+143,MSI,GF63 Intel Core,Core i5 12th Gen 12450H,16,512,4.3105 ,11,DDR4,15.6,2,67990
+144,MSI,Modern 14 Intel Core,Core i5 12th Gen 1235U,16,512,4.2597 ,84,DDR4,14,1,40990
+145,MSI,GF63 Intel Core,Core i5 11th Gen 11260H,16,512,4.2170 ,19,DDR4,15.6,2,58990
+146,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+147,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+148,ASUS,Vivobook 15 Intel Core,,16,512,3.99 ,1,DDR4,15.6,1,70990
+149,MSI,Bravo 15 AMD Ryzen,7th Gen Ryzen 7 7735HS,16,1,,,DDR5,15.6,1,89990
+150,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+151,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+152,Lenovo,Yoga Slim 6,Core i5 12th Gen 1240P,16,512,4.2854 ,130,DDR5,14,1,63400
+153,Infinix,INBook X1 Neo Series,Intel Celeron Quad Core N5100,8,256,"4.24,365 ",599,DDR4X,14,1,24990
+154,Colorful,Evol P-15,Core i5 12th Gen 12450H,16,512,,,DDR5,15.6,2,65640
+155,Acer,Extensa (2023,Core i3 12th Gen N305,8,512,"4.21,032 ",107,DDR5,15.6,1,32750
+156,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+157,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+158,HP,15s (2023,Core i3 13th Gen 1315U,8,512,4.2228 ,23,DDR4,15.6,1,44990
+159,HP,Pavilion Intel Core,Core i5 12th Gen 1235U,16,512,"4.31,563 ",136,DDR4,14,1,62490
+160,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+161,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+162,ASUS,Vivobook Pro 15,Ryzen 7 Octa Core 5800HS,16,512,4.3122 ,24,DDR4,15.6,1,65990
+163,Acer,AMD Ryzen 3,Ryzen 3 Dual Core 3250U,8,256,,52,DDR4,14,1,25990
+164,ASUS,ROG Ally AMD,Ryzen Z1 Octa Core Extreme,16,512,4.6451 ,84,DDR5,,1,59990
+165,Infinix,Y1 Plus Neo,Quad Core 11th Gen N5100,4,128,,195,DDR4X,15.6,1,18990
+166,HP,Pavilion x360 Intel,Core i5 13th Gen 1335U,16,1,4.3175 ,22,DDR4,14,1,76321
+167,Infinix,INBook X1 Neo Series,Quad Core 11th Gen N5100,4,128,,195,DDR4X,14,1,22990
+168,ASUS,Vivobook 14 Intel Core,Core i3 11th Gen 1115G4,16,512,4.2132 ,9,DDR4,14,0211,38990
+169,ASUS,Vivobook Go 14,Core i3 12th Gen N305,8,512,4.355 ,7,DDR4,14,1,36990
+170,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+171,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+172,ASUS,Vivobook 15 AMD Ryzen,Ryzen 7 Octa Core 5800HS,16,512,"4.21,342 ",108,DDR4,15.6,1,56990
+173,ASUS,TUF Gaming F15,Core i5 10th Gen 10300H,8,512,"4.46,074 ",634,DDR4,15.6,1,48600
+174,ASUS,Vivobook AMD Ryzen,Ryzen 5 Quad Core 7520U,8,512,,,DDR5,14,1,39990
+175,MSI,GF63 Intel Core,Core i7 12th Gen 12650H,16,512,4.4200 ,12,DDR4,15.6,2,92990
+176,SponsoredLenovo,IdeaPad Flex 5,Core i7 13th Gen 1355U,16,512,4.816 ,2,DDR4X,14,0211,77190
+177,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+178,SAMSUNG,Galaxy Book2 Pro,Core i5 12th Gen 1240P,16,512,"4.61,714 ",248,DDR5,13.3,1,69990
+179,Primebook,S Wifi MediaTek,Primebook S Wifi MediaTek MT8183,4,128,4.3975 ,288,DDR4,11.6,1,13990
+180,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+181,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+182,DELL,Inspiron Intel Core,Core i7 13th Gen 1355U,16,512,,0,DDR4,15.6,1,68990
+183,DELL,Intel Core i3,Core i3 11th Gen 1115G4,8,512,3.414 ,3,DDR4,15.6,1,33499
+184,Infinix,Inbook Y2 Plus Intel,Core i5 11th Gen 1155G7,16,512,4.1257 ,43,DDR4X,15.6,1,32990
+185,ASUS,Vivobook Pro 15,Ryzen 5 Hexa Core 5600HS,8,512,"4.41,201 ",130,DDR4,15.6,1,59990
+186,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+187,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+188,ASUS,Vivobook Go 15,Ryzen 3 Quad Core 7320U,8,512,"4.41,455 ",210,DDR5,15.6,1,46990
+189,Lenovo,Intel Celeron Dual,Celeron Dual Core 4th Gen,8,256,3.7187 ,11,DDR4,15.6,1,20890
+190,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+191,SAMSUNG,Galaxy Book3 Intel,Core i7 13th Gen 1355U,16,512,4.4391 ,53,DDR4X,15.6,1,81990
+192,HP,Pavilion Gaming AMD,,8,512,3.983 ,7,DDR4,15.6,,58000
+193,HP,Intel Core i5,Core i5 13th Gen 1335U,8,512,4.142 ,2,DDR4,15.6,1,59990
+194,MSI,Katana 15 Intel Core,Core i5 12th Gen 12450H,16,1,4.517 ,1,DDR5,15.6,2,87990
+195,HP,Laptop AMD Ryzen,Ryzen 3 Quad Core 5300U,8,512,"4.33,567 ",438,DDR4,15.6,1,35490
+196,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+197,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+198,MSI,Bravo 15 AMD Ryzen,Ryzen 5 Hexa Core 7535HS,8,512,4.1102 ,17,DDR5,15.6,1,49990
+199,Lenovo,Intel Core i5,Core i5 13th Gen 1355U,16,512,,,DDR5,16,1,55990
+200,SponsoredLenovo,IdeaPad Flex 5,Core i7 13th Gen 1355U,16,512,4.816 ,2,DDR4X,14,0211,77190
+201,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+202,Lenovo,IdeaPad Slim 3,Core i5 12th Gen 1235U,16,512,"4.21,602 ",129,DDR4,15.6,2,51990
+203,Lenovo,Lenovo Ideapad Slim,Intel Celeron Dual Core N4020,8,256,"4.12,392 ",216,DDR4,14,2,25930
+204,ASUS,Vivobook S 14,Core i5 12th Gen 12500H,16,512,"4.31,697 ",183,DDR4,14,1,65990
+205,ZEBRONICS,Pro Series Z,Core i7 12th Gen 1255U,16,1,3.982 ,7,DDR4,15.6,1,43990
+206,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+207,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+208,Apple,2020 Macbook Air,2020 Macbook Air Apple M1,8,256,"4.714,230 ",180,DDR4,13.3,1,74990
+209,Lenovo,ThinkBook 15 AMD Ryzen,Ryzen 3 Hexa Core 7330U,8,512,4.3982 ,118,DDR4,15.6,1,33500
+210,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+211,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+212,ASUS,TUF Gaming F15,Core i5 12th Gen 12500H,16,512,4.5433 ,39,DDR4,15.6,1,70990
+213,SAMSUNG,Galaxy Book3 Intel,Core i5 13th Gen 1335U,16,512,4.4777 ,110,DDR4X,15.6,1,69990
+214,Acer,Nitro V Intel,Core i5 13th Gen 13420H,16,512,4.352 ,6,DDR5,15.6,1,79990
+215,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,8,512,"4.21,000 ",97,DDR4,15.6,1,49490
+216,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+217,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+218,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,8,512,4.3872 ,74,DDR4,15.6,1,55490
+219,DELL,AMD Ryzen 5,,8,512,,24,DDR5,,1,66215
+220,SponsoredLenovo,IdeaPad Flex 5,Core i7 13th Gen 1355U,16,512,4.816 ,2,DDR4X,14,0211,77190
+221,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+222,HP,Pavilion AMD Ryzen,Ryzen 5 Hexa Core 5500U,16,1,4.34 ,0,DDR4,15.6,1,57990
+223,HP,Victus Intel Core,Core i7 12th Gen 12650H,16,512,4.499 ,10,DDR4,15.6,1,78990
+224,Lenovo,IdeaPad Slim 3,Core i3 12th Gen 1215U,8,256,"4.21,060 ",78,DDR4,15.6,0211,33000
+225,Lenovo,IdeaPad Slim 3,Core i3 12th Gen 1215U,8,512,"4.21,060 ",78,DDR4,,2,35250
+226,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+227,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+228,SAMSUNG,Galaxy Book3 360,Core i7 13th Gen 1360P,16,1,4.728 ,5,DDR4X,15.6,1,133990
+229,ASUS,Chromebook Intel Celeron,Intel Celeron Dual Core N4500,8,128,3.8562 ,68,DDR4X,15.6,1,19990
+230,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+231,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+232,Infinix,X2 Slim Intel,Core i5 11th Gen 1155G7,16,512,4.1257 ,43,DDR4X,14,1,32990
+233,DELL,Intel Core i3,Core i3 13th Gen 1305U,8,512,4.85 ,0,DDR4,14,1,37990
+234,HP,Intel Core i5,Intel Core i5 11th Gen,8,512,4.73 ,0,DDR4,14,1,35990
+235,DELL,Inspiron 5430 Intel,Core i7 13th Gen 1360P,16,1,3.98 ,0,DDR5,14.1,1,83690
+236,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+237,SAMSUNG,Galaxy Book 2,Core i5 12th Gen 1235U,16,512,"4.33,053 ",326,DDR4,15.6,1,52990
+238,ASUS,AMD Ryzen 7,7 Octa Core 6th Gen,16,1,,0,DDR4,17.3,,83614
+239,Lenovo,IdeaPad Gaming 3,Ryzen 5 Hexa Core 7535HS,16,512,4.1111 ,12,DDR5,15.6,1,55990
+240,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+241,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+242,HP,Pavilion x360 Intel,Core i5 13th Gen 1335U,16,1,4.456 ,5,DDR4,14,1,79019
+243,DELL,Vostro Intel Core,Core i5 11th Gen 1135G7,8,512,4.1409 ,27,DDR4,14,0191,44999
+244,ASUS,Vivobook Go 15,Ryzen 3 Quad Core 7320U,8,512,"4.23,286 ",386,DDR5,15.6,1,35990
+245,ZEBRONICS,Pro Series Z,Core i3 12th Gen 1215U,8,512,3.976 ,15,DDR4,15.6,1,27990
+246,HP,250 G9 Intel Core,Gen Intel Core i3 1215U,8,512,4.230 ,4,DDR4,15.6,1,35600
+247,DELL,Intel Core i7,Intel Core i7 12th Gen,16,512,,,DDR5,13.4,1,111990
+248,Acer,Aspire 3 AMD,Ryzen 5 Quad Core 3500U,8,512,4.4381 ,41,DDR4,15.6,1,31690
+249,Acer,Aspire 3 15,Ryzen 5 Quad Core 7520U,8,512,,0,DDR5,15.6,1,31690
+250,Apple,MacBook Air Apple,Apple MacBook Air Apple M3,8,256,4.923 ,4,,13,1,107990
+251,MSI,GP76 Intel Core,Core i7 11th Gen 11800H,16,1,4.429 ,6,DDR4,17.3,2,135875
+252,HP,G9 SERIES AMD,AMD Athlon Dual Core 3050U,4,256,3.710 ,1,DDR4,15.6,1,20990
+253,SAMSUNG,Galaxy Book4 Intel,Book4 Intel Core 7 150U,16,512,,1,DDR4X,15.6,1,89990
+254,ASUS,Intel Core i5,Core i5 13th Gen 1335U,16,512,3.84 ,1,DDR4,15.6,1,59990
+255,Lenovo,Intel Core i7,Core i7 12th Gen 1255U,16,512,4.1525 ,44,DDR4,15.6,1,57990
+256,Infinix,Inbook Y2 Plus Intel,Core i3 11th Gen 1115G4,8,512,"4.11,223 ",181,DDR4X,15.6,1,25490
+257,Lenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+258,HP,240 G8 Intel Core,,8,512,3.651 ,7,DDR4,14,1,33700
+259,ASUS,Vivobook Pro 15,Ryzen 7 Octa Core 5800HS,16,512,4.4220 ,17,DDR4,15.6,1,60990
+260,Acer,One 11 Intel Celeron,Intel Celeron Dual Core N4500,8,256,3.3148 ,22,DDR4,11.6,1,21290
+261,HP,Victus AMD Ryzen,Ryzen 7 Octa Core 5800H,16,512,4.4393 ,31,DDR4,15.6,1,68990
+262,MSI,Modern 14 H Intel,Core i9 13th Gen 13900H,16,1,,,DDR4,14,1,78990
+263,HP,Pavilion Intel Core,Core i5 12th Gen 1240P,8,512,4.2658 ,61,DDR4,15.6,0211,65490
+264,Acer,Swift Go 14,Core i5 13th Gen 13500H,16,512,4.351 ,8,DDR5,14,1,65990
+265,Lenovo,IdeaPad Gaming 3,Core i5 11th Gen 11320H,8,512,4.1496 ,47,DDR4,15.6,1,50990
+266,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+267,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+268,Colorful,Evol P-15,Core i7 12th Gen 12650H,16,512,,,DDR5,15.6,2,79590
+269,HP,Intel Celeron Dual,Intel Celeron Dual Core N4500,8,512,3.8742 ,64,DDR4,15.6,1,28990
+270,SponsoredLenovo,IdeaPad Flex 5,Core i7 13th Gen 1355U,16,512,4.816 ,2,DDR4X,14,0211,77190
+271,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+272,DELL,Inspiron Intel Core,Core i7 12th Gen 1255U,16,512,4.235 ,2,DDR4,14,1,86990
+273,HP,360 Intel Celeron,Intel Celeron Dual Core N4120,4,64,"3.91,027 ",96,DDR4,14,1,20990
+274,HP,Intel Core i5,Core i5 13th Gen 1335U,16,512,4.142 ,2,DDR4,15.6,1,64990
+275,HP,Pavilion Intel Core,Core i7 12th Gen 1255U,16,1,4.2209 ,17,DDR4,14,1,74499
+276,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+277,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+278,MSI,GF63 Intel Core,Core i7 12th Gen 12650H,16,512,4.258 ,6,DDR4,15.6,2,99990
+279,HP,Pavilion Intel Core,Core i5 13th Gen 1335U,16,1,4.3325 ,23,DDR4,15.6,1,74990
+280,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+281,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+282,Primebook,S Wifi MediaTek,Primebook S Wifi MediaTek MT8183,4,128,4.3975 ,288,DDR4,11.6,1,13990
+283,ASUS,Vivobook 15X (2023,Core i3 13th Gen 1315U,8,512,4.259 ,10,DDR4,15.6,1,39490
+284,Lenovo,IdeaPad Gaming 3,Ryzen 5 Quad Core 5500H,8,512,4.2169 ,22,DDR4,,1,47990
+285,ASUS,Vivobook 15X (2023,Core i5 13th Gen 1315U,16,512,4.181 ,9,DDR4,15.6,1,59990
+286,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+287,Lenovo,IdeaPad 3 Intel,Core i3 12th Gen 1215U,8,256,,,DDR4,15.6,1,32990
+288,SAMSUNG,Galaxy Book4 Intel,Book4 Intel Core 5 120U,16,512,4.717 ,4,DDR4X,15.6,1,79990
+289,Lenovo,IdeaPad Slim 3,Core i5 11th Gen 1155G7,8,512,"4.25,650 ",413,DDR4,15.6,,43500
+290,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+291,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+292,DELL,Vostro Intel Core,Core i3 11th Gen 1115G4,8,1,4.2974 ,66,DDR4,15.6,1,36990
+293,HP,Envy x360 (2023,Ryzen 7 Octa Core 7730U,16,512,,,DDR5,15.6,1,82990
+294,SAMSUNG,Galaxy Book3 Intel,Core i5 13th Gen 1335U,16,512,4.4777 ,110,DDR4X,15.6,1,69990
+295,ZEBRONICS,Pro Series Z,Core i3 12th Gen 1215U,8,512,3.976 ,15,DDR4,15.6,1,27990
+296,SponsoredLenovo,IdeaPad Flex 5,Core i7 13th Gen 1355U,16,512,4.816 ,2,DDR4X,14,0211,77190
+297,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+298,Lenovo,V14 G3 (82TSA01KIH,Core i3 12th Gen 1213U,8,512,4.136 ,2,DDR4,14,,31000
+299,HP,AMD Ryzen 5,AMD Ryzen 5 Hexa Core,8,512,3.47 ,1,DDR4,15.6,1,49490
+300,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+301,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+302,Lenovo,AMD Ryzen 3,Ryzen 3 Quad Core 7330U,8,512,,,DDR4,15.6,1,34990
+303,Acer,Aspire Lite AMD,Ryzen 5 Hexa Core 5500U,16,1,3.942 ,4,DDR4,15.6,1,41299
+304,SAMSUNG,Galaxy Book3 Intel,Core i5 13th Gen 1335U,8,512,4.4777 ,110,DDR4X,15.6,1,62990
+305,HP,Victus AI Powered AMD,Ryzen 7 Octa Core 7840HS,16,512,4.4188 ,19,DDR5,16.1,1,81990
+306,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+307,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+308,HP,Pavilion x360 Intel,Core i3 12th Gen 1215U,8,512,4.367 ,5,DDR4,14,1,55208
+309,HP,841w6pa 255 g9,,8,512,3.949 ,5,DDR4,15.6,1,23990
+310,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+311,MSI,Crosshair 16 HX Intel,Core i7 14th Gen 14700HX,32,1,,,DDR5,16,2,172990
+312,HP,AMD Ryzen 3,Ryzen 3 Quad Core 7320U,8,512,,7,DDR5,14,0211,33990
+313,Acer,Aspire Vero Intel,Core i5 13th Gen 1335U,16,512,4.312 ,2,DDR4X,14,1,55990
+314,HP,Intel Core i5,Core i5 12th Gen 1235U,8,512,4.437 ,4,DDR4,15.6,1,49990
+315,DELL,Alienware Intel Core,Core i7 12th Gen 12700H,16,1,,,DDR5,15.6,1,179483
+316,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+317,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+318,HP,360 Intel Celeron,Intel Celeron Quad Core N4120,4,64,,86,DDR4,14,1,20990
+319,Lenovo,AMD Ryzen 3,AMD Ryzen 3 Octa Core,8,512,4.513 ,2,DDR4,14,,27990
+320,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+321,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+322,HP,Intel Core i3,Core i3 11th Gen 1125G4,8,512,4.2621 ,60,DDR4,15.6,1,33240
+323,ASUS,Vivobook 15 Intel Core,Core i3 11th Gen 1115G4,8,512,"4.38,312 ",739,DDR4,15.6,1,31990
+324,ASUS,Intel Core i3,Intel Core i3 13th Gen,8,512,3.910 ,0,DDR4,15.6,1,42868
+325,ASUS,Vivobook 15 Intel Core,Core i5 12th Gen 12500H,16,512,3.877 ,7,DDR4,15.6,0211,54990
+326,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+327,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+328,Acer,Nitro V Intel,Core i7 13th Gen 13620H,16,512,,,DDR5,15.6,1,94999
+329,ASUS,ExpertBook B9 Intel Core,Core i7 10th Gen 10510U,16,2,,,DDR3,14,3,111127
+330,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+331,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+332,HP,OMEN Intel Core,Core i7 14th Gen 14700HX,16,1,,,DDR5,16.1,1,142490
+333,HP,15s AMD Ryzen,Ryzen 5 Hexa Core 5500U,16,512,4.3725 ,60,DDR4,15.6,1,43990
+334,Lenovo,IdeaPad Gaming 3,Core i5 12th Gen 12450H,16,512,4.3458 ,58,DDR4,15.6,0211,67990
+335,Lenovo,Intel Core i3,Intel Core i3 12th Gen,8,512,3.34 ,0,DDR4,15.6,,33590
+336,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+337,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+338,Acer,Aspire 5 Intel,Intel Core i5 13th Gen,8,512,,,DDR4,15.6,1,54990
+339,Lenovo,ThinkBook 15 Intel Core,Core i7 12th Gen 1255U,16,512,,,DDR4,15.6,1,82990
+340,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+341,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+342,MSI,GF63 Intel Core,Core i5 12th Gen 12450H,16,1,4.5136 ,22,DDR4,15.6,2,86990
+343,Lenovo,Yoga Slim 6,Core i7 13th Gen 13700H,16,512,4.84 ,1,DDR5X,14,1,92690
+344,Lenovo,Lenovo Ideapad Slim,Intel Celeron Dual Core N4020,8,256,"4.12,392 ",216,DDR4,14,2,25300
+345,Infinix,ZEROBOOK 13 Intel Intel,Core i7 13th Gen 13700H,16,512,4.2112 ,29,DDR5X,,1,59990
+346,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+347,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+348,Lenovo,IdeaPad Gaming 3,Ryzen 7 Octa Core 6800H,8,512,4.491 ,15,DDR5,15.6,0211,62990
+349,Lenovo,Intel Core i3,Intel Core i3 12th Gen,8,512,3.34 ,0,DDR4,15.6,,33590
+350,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+351,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+352,Lenovo,Intel Core i5,Core i5 13th Gen 1355U,16,512,,,DDR5,16,1,55990
+353,ASUS,AMD Ryzen 5,AMD Ryzen 5 Quad Core,16,512,,,DDR4,14,1,43990
+354,HP,841w6pa 255 g9,,8,512,3.949 ,5,DDR4,15.6,1,25500
+355,Apple,2023 MacBook Pro,2023 MacBook Pro Apple M3,8,1,,,,14,1,178590
+356,ASUS,Intel Core i3,Core i3 11th Gen 1115G4,8,512,"4.33,228 ",257,DDR4,14,1,31490
+357,HP,Pavilion Gaming AMD,,16,1,"4.41,528 ",154,DDR4,15.6,1,68490
+358,ASUS,ASUS TUF Gaming,5 Hexa Core 10th Gen,8,,4.65 ,0,DDR4,15.6,11,52000
+359,Acer,Aspire Vero Intel,Core i5 13th Gen 1335U,16,512,4.312 ,2,DDR4X,14,1,55990
+360,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+361,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+362,ASUS,Vivobook 14X OLED,Core i5 13th Gen 13500H,16,512,3.33 ,0,DDR4,14,1,88941
+363,Lenovo,IdeaPad 3 Intel,Core i5 11th Gen 1135G7,8,512,4.3317 ,29,DDR4,15.6,0192,49990
+364,HP,Victus Intel Core,Core i5 12th Gen 12450H,8,512,4.230 ,4,DDR4,15.6,1,57490
+365,Apple,2022 MacBook AIR,2022 MacBook AIR Apple M2,8,512,4.6163 ,5,,13.6,1,107990
+366,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+367,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+368,HP,Intel Core i3,Intel Core i3 11th Gen,8,512,,,DDR4,15.6,1,38000
+369,Infinix,ZERO BOOK ULTRA,Core i9 12th Gen 12900H,16,512,4.365 ,13,DDR5,15.6,1,75990
+370,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+371,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+372,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,8,512,4.4141 ,14,DDR4,15.6,1,50499
+373,Acer,Extensa (2023,Core i3 12th Gen N305,8,256,"4.21,032 ",107,DDR5,15.6,1,31490
+374,Lenovo,IdeaPad Slim 1,Ryzen 3 Quad Core 7320U,8,512,4.1196 ,11,DDR5,15.6,1,33990
+375,HP,14s Intel Core,Core i5 11th Gen 1135G7,8,512,4.2275 ,25,DDR4,14,1,57990
+376,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+377,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+378,ASUS,Vivobook Pro 15,Core AMD Ryzen 5 5600H,16,512,,,DDR4,15.6,1,69899
+379,MSI,Modern 14 Intel Core,Core i7 13th Gen 1355U,16,512,4.135 ,4,DDR4,14,1,64990
+380,Lenovo,ThinkPad E14 AMD,Ryzen 5 Hexa Core 7530U,8,512,3.34 ,0,DDR4,14,1,48990
+381,Apple,MacBook Air Apple,Apple MacBook Air Apple M3,8,512,4.923 ,4,,13,1,126890
+382,Apple,2021 Macbook Pro,Macbook Pro Apple M1 Max,32,1,4.215 ,5,,16.2,1,299990
+383,ASUS,Vivobook Pro 15,Ryzen 7 Octa Core 5800HS,16,512,4.4220 ,17,DDR4,15.6,1,60990
+384,Acer,Nitro 5 (2023,Ryzen 5 Hexa Core 7535HS,16,512,4.354 ,4,DDR5,15.6,,68990
+385,WINGS,Nuvobook S1 Aluminium Alloy,Core i3 11th Gen 1125G4,8,256,4.2608 ,114,DDR4,15.6,1,23990
+386,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+387,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+388,Lenovo,IdeaPad Slim 3,Ryzen 5 Quad Core 7520U,16,512,4.166 ,4,DDR5,15.6,0211,45990
+389,AXL,Intel Celeron Dual,AXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+390,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+391,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+392,SAMSUNG,Galaxy Book3 Pro,Core i7 13th Gen 1360P,16,512,4.114 ,1,DDR5,14,1,124990
+393,MSI,Katana 15 Intel Core,Core i7 12th Gen 12650H,16,1,4.614 ,5,DDR5,15.6,2,99990
+394,ASUS,VivoBook 15 AMD Ryzen,,4,256,"4.31,679 ",224,DDR4,15.6,,18590
+395,DELL,Intel Core i5,Core i5 12th Gen 1235U,16,512,3.713 ,2,DDR4,15.6,1,52200
+396,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+397,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+398,Apple,MacBook Air Apple,Apple MacBook Air Apple M3,8,256,4.923 ,4,,15,1,126890
+399,Lenovo,IdeaPad Gaming 3,Core i5 11th Gen 11300H,8,512,4.3443 ,46,DDR4,15.6,0211,62990
+400,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+401,Acer,Swift Go 14,Ryzen 5 Hexa Core 7530U,8,512,4.226 ,1,DDR4X,14,1,49990
+402,DELL,Intel Core i3,Intel Core i3 11th Gen,8,256,4.322 ,2,DDR4,14,1,33490
+403,ASUS,Vivobook Pro 15,Ryzen 7 Octa Core 5800HS,16,512,4.3122 ,24,DDR4,15.6,1,65990
+404,HP,Intel Core i3,Intel Core i3 11th Gen,8,512,,,DDR4,15.6,1,38000
+405,Acer,Extensa (2023,Core i3 12th Gen N305,8,256,"4.21,032 ",107,DDR5,15.6,1,31490
+406,HP,Laptop Intel Core,Core i3 13th Gen 1315U,8,512,,,DDR4,14,0211,47990
+407,HP,Pavilion Gaming AMD,,16,1,"4.41,528 ",154,DDR4,15.6,1,68490
+408,DELL,Inspiron 15 3530,Intel Core i5 13th Gen,8,1,4.122 ,1,DDR4,15.6,,59990
+409,HP,Victus Intel Core,Core i7 12th Gen 12650H,16,512,4.327 ,3,DDR4,15.6,1,81503
+410,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+411,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+412,HP,Spectre x360 Intel,Intel Core Ultra 7 155H,32,1,,,DDR5X,16,1,195990
+413,HP,250 G8 Intel Core,,8,256,,,DDR4,15.6,1,32990
+414,ASUS,Pro P5 Intel Core,Core i7 8th Gen 8565U,8,1,,,DDR4,14,1,59699
+415,HP,G9 AMD Ryzen,Ryzen 3 Dual Core 3250U,8,512,3.875 ,10,DDR4,15.6,1,23990
+416,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+417,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+418,ASUS,ExpertBook B9 Intel Core,Core i7 10th Gen 10510U,16,2,,,DDR3,14,3,111127
+419,ASUS,TUF Gaming F17,Core i5 12th Gen 12500H,8,512,4.56 ,1,DDR4,17.3,1,69990
+420,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+421,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+422,DELL,Intel Core i3,Core i3 13th Gen 1305U,8,512,,,DDR4,15.6,1,39990
+423,ASUS,Vivobook 15 AMD Ryzen,Ryzen 7 Octa Core 5800HS,16,512,"4.21,342 ",108,DDR4,15.6,1,56990
+424,Lenovo,IdeaPad Gaming 3,,16,512,4.3255 ,31,DDR4,15.6,1,63419
+425,HP,15s Intel Core,Intel Core i5 12th Gen,8,512,4.140 ,3,DDR4,15.6,,49990
+426,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+427,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+428,ASUS,Vivobook 16X For,Core i7 12th Gen 12650H,16,512,4.265 ,9,DDR4,16,1,78990
+429,ASUS,Intel Core i5,Intel Core i5 12th Gen,16,512,,,DDR4,15.6,1,55980
+430,ASUS,Vivobook 16X AMD,,16,512,4.559 ,4,DDR4,16,1,57000
+431,DELL,AMD Ryzen 5,Ryzen 5 Hexa Core 5500U,8,512,3.99 ,1,DDR4,15.6,1,38300
+432,Lenovo,IdeaPad Slim 3,Core i5 11th Gen 1155G7,8,512,"4.25,650 ",413,DDR4,15.6,,43500
+433,ASUS,Vivobook Go 15,Ryzen 5 Quad Core 7520U,16,512,,0,DDR5,15.6,1,50990
+434,Acer,Nitro V Intel,Core i5 13th Gen 13420H,16,512,4.68 ,0,DDR5,15.6,1,73990
+435,HP,Victus Intel Core,Core i5 11th Gen 11400H,8,512,4.3791 ,81,DDR4,16.1,1,54500
+436,Apple,MacBook Air Apple,Apple MacBook Air Apple M3,8,256,4.923 ,4,,15,1,126890
+437,Ultimus,Intel Celeron Dual,Ultimus Intel Celeron Dual Core,4,128,,,DDR4,14,1,12990
+438,HP,Pavilion Intel Core,Core i5 12th Gen 1235U,16,1,"4.31,563 ",136,DDR4,14,1,70250
+439,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,8,512,4.921 ,0,DDR4,15.6,1,56939
+440,Lenovo,IdeaPad Slim 3,Core i3 11th Gen 1115G4,8,512,"4.22,988 ",234,DDR4,15.6,0212,35100
+441,HP,Pavilion x360 Intel,Core i3 12th Gen 1215U,8,512,4.26 ,1,DDR4,15.6,1,57990
+442,ASUS,Vivobook S 14,,8,512,4.45 ,0,DDR4,14.1,1,57990
+443,Apple,2021 Macbook Pro,Macbook Pro Apple M1 Max,32,1,4.215 ,5,,16.2,1,299990
+444,MSI,GP76 Intel Core,Core i7 11th Gen 11800H,16,1,4.429 ,6,DDR4,17.3,2,135875
+445,GIGABYTE,G Series Intel,Core i5 12th Gen 12450H,16,512,3.86 ,0,DDR4,15.6,2,71990
+446,ASUS,Vivobook 15 Intel Pentium,Intel Pentium Dual Core 7505,8,512,,,DDR4,15.6,1,28990
+447,ASUS,Vivobook S 14,Core i5 13th Gen 1335U,16,512,3.814 ,0,DDR4,14,1,72990
+448,Infinix,X1 Slim Series,Core i3 10th Gen 1005G1,8,256,"4.33,874 ",457,DDR4X,14,1,28490
+449,DELL,Intel Core i7,Intel Core i7 12th Gen,16,512,4.33 ,0,DDR4,13.3,,86500
+450,Apple,2022 MacBook AIR,2022 MacBook AIR Apple M2,8,256,"4.75,624 ",429,,13.6,1,96990
+451,MSI,Stealth 15 Intel Core,Core i7 13th Gen 13620H,16,1,,,DDR5,15.6,1,186990
+452,HP,AMD Ryzen 5,AMD Ryzen 5 Quad Core,8,512,,0,DDR4,14,1,31990
+453,Acer,Aspire 3 14,Core i3 13th Gen N305,8,512,3.85 ,0,DDR5,14,1,33400
+454,HP,15s (2023,Ryzen 5 Quad Core 7520U,16,512,4.361 ,5,DDR5,15.6,1,48990
+455,SAMSUNG,Galaxy Book3 360,Core i7 13th Gen 1360P,16,1,4.728 ,5,DDR4X,15.6,1,133990
+456,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+457,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+458,Lenovo,IdeaPad Slim 3,Ryzen 5 Quad Core 7520U,16,512,4.166 ,4,DDR5,15.6,0211,45990
+459,WINGS,Nuvobook S2 Aluminium Alloy,Core i3 11th Gen 1125G4,8,512,4.2608 ,114,DDR4,15.6,1,24990
+460,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+461,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+462,Acer,Aspire Lite Intel,Core i7 11th Gen 1165G7,16,512,3.85 ,0,DDR4,15.6,1,52499
+463,Avita,SATUS Intel Celeron,Intel Celeron Dual Core N4020,4,128,"3.61,481 ",186,DDR4,14.1,1,15990
+464,DELL,Inspiron Intel Core,Core i7 13th Gen 1355U,16,512,,0,DDR4,15.6,1,68990
+465,Lenovo,ThinkPad E14 Intel,Core i3 12th Gen 1215U,8,512,3.817 ,2,DDR4,14,1,48500
+466,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+467,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+468,HP,Pavilion x360 Intel,Core i5 13th Gen 1335U,16,1,4.456 ,5,DDR4,14,1,79019
+469,HP,Pavilion x360 Intel,Intel Core i7 13th Gen,16,512,4.36 ,2,DDR4,14,1,92490
+470,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+471,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+472,Infinix,Y4 Max Series,Core i7 13th Gen 1355U,16,512,4.110 ,0,DDR4X,16,1,52990
+473,Lenovo,V SERIES Intel,Core i5 12th Gen 1235U,8,512,4.47 ,0,DDR4,16,1,44000
+474,Infinix,INBook X1 Pro Intel,Core i7 10th Gen 1065G7,16,512,,72,DDR4X,14,1,43490
+475,ASUS,Vivobook Pro 15,Core i5 12th Gen 12450H,16,512,4.4189 ,23,DDR5,15.6,1,79999
+476,HP,Spectre Folio Intel,Core i7 10th Gen 10510Y,16,512,,,DDR3,13.3,1,188990
+477,Acer,Extensa 15 AMD Ryzen,Ryzen 3 Quad Core 7320U,8,512,4.2224 ,24,DDR5,15.6,1,29990
+478,ASUS,Chromebook Flip Touch,Intel Celeron Dual Core N4020,4,32,,448,DDR4,11.6,1,29431
+479,Acer,Predator Helios Neo,Core i7 14th Gen 14700HX,16,1,,,DDR5,16,1,149999
+480,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+481,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+482,Lenovo,IdeaPad Slim 3,Core i3 11th Gen 1115G4,8,512,"4.22,988 ",234,DDR4,15.6,0212,35100
+483,Apple,2022 MacBook AIR,2022 MacBook AIR Apple M2,8,256,"4.75,624 ",429,,13.6,1,96990
+484,Lenovo,IdeaPad Slim 5,Core i7 12th Gen 1255U,16,512,4.225 ,3,DDR4,15.6,1,94000
+485,MSI,Stealth 15 Intel Core,Core i7 13th Gen 13620H,16,1,,,DDR5,15.6,1,186990
+486,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+487,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+488,HP,Intel Core i7,Core i7 12th Gen 1255U,16,512,,,DDR4,15.6,1,88990
+489,DELL,Inspiron 5430 Intel,Intel Core i5 13th Gen,16,1,3.635 ,6,DDR5,14,,72400
+490,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+491,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+492,Lenovo,IdeaPad Gaming 3,Core i5 11th Gen 11300H,8,512,,15,DDR4,15.6,1,49990
+493,Acer,Aspire 3 14,Core i3 13th Gen N305,8,512,3.85 ,0,DDR5,14,1,33400
+494,Infinix,X3 Slim Intel,Core i5 12th Gen 1235U,16,512,4.1928 ,142,DDR4X,14,1,36990
+495,SAMSUNG,Galaxy Book4 Pro,Intel Core Ultra 5 125H,16,512,4.73 ,0,DDR5X,16,0211,141990
+496,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+497,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+498,ASUS,Vivobook S 15,Core i7 13th Gen 13700H,16,512,4.333 ,2,DDR5,15.6,1,105990
+499,DELL,Inspiron Intel Core,Core i5 11th Gen 1135G7,8,1,4.188 ,11,DDR4,15.6,1,51999
+500,ASUS,X1500EA-EJ3379WS,Intel Core i3 11th Gen,8,512,4.130 ,1,DDR4,15.6,1,31990
+501,Apple,2022 MacBook AIR,2022 MacBook AIR Apple M2,8,512,4.6163 ,5,,13.6,1,107990
+502,ASUS,Vivobook Intel Celeron,Intel Celeron Dual Core N4020,8,512,3.813 ,0,DDR4,15.6,,27890
+503,DELL,Intel Core i5,Core i5 11th Gen 11260H,16,512,4.1326 ,34,DDR4,15.6,0211,95999
+504,Lenovo,IdeaPad Slim 5,Ryzen 7 Octa Core 7730U,16,512,4.718 ,4,DDR4,14,1,60190
+505,DELL,Inspiron 5620 Intel,Core i5 12th Gen 1235U,16,512,,,DDR5,16,1,61990
+506,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+507,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+508,Acer,Predator Helios 16,Core i9 14th Gen 14900HX,32,1,,,DDR5,16,1,249999
+509,HP,15s (2023,Ryzen 5 Quad Core 7520U,16,512,4.342 ,1,DDR5,15.6,1,46990
+510,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+511,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+512,Acer,Nitro 5 AMD,Ryzen 5 Hexa Core 5600H,16,1,4.5313 ,48,DDR4,15.6,,91499
+513,DELL,Intel Core i5,DELL Intel Core i5 13450HX,8,512,4.73 ,1,DDR5,15.6,1,81402
+514,DELL,Inspiron 5430 Intel,Intel Core i5 13th Gen,16,512,3.88 ,1,DDR5,14,,67990
+515,DELL,Intel Core i3,Core i3 11th Gen 1115G4,8,256,4.1154 ,14,DDR4,14,1,34990
+516,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+517,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+518,HP,AMD Ryzen 5,Ryzen 5 Quad Core 7520U,8,512,,,DDR5,14,1,44990
+519,ASUS,Zenbook S 13,Core i7 13th Gen 1335U,16,,,1,DDR5,13.3,1,119990
+520,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+521,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+522,HP,Intel Core i7,Core i7 13th Gen 1355U,32,1,,,DDR4X,13.5,1,152990
+523,DELL,Inspiron AMD Ryzen,Ryzen 5 Hexa Core 5625U,8,512,,,DDR4,14,1,51990
+524,HP,245G9 841W7PA,AMD Ryzen 3 Dual Core,8,512,4.1109 ,11,DDR4,14,1,26600
+525,Lenovo,V14 Intel Core,Intel Core i3 11th Gen,8,256,,,DDR4,14,1,32000
+526,ASUS,Vivobook 15X OLED,Ryzen 5 Hexa Core 7530U,16,1,3.77 ,2,DDR4,15.6,1,54990
+527,Acer,Intel Core i5,Intel Core i5 9th Gen,8,1,,,DDR4,15.6,,49999
+528,ASUS,TUF Gaming F17,Core i7 11th Gen 11800H,16,512,4.3245 ,33,DDR4,17.3,1,84990
+529,Colorful,Evol P-15,Core i7 12th Gen 12650H,16,512,,,DDR5,15.6,2,79192
+530,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+531,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+532,DELL,Intel Core i3,Core i3 12th Gen 1215U,8,512,3.845 ,8,DDR4,,1,34990
+533,MSI,Prestige 13 Evo Intel,Core i7 13th Gen 1360P,16,1,4.18 ,4,DDR5,13.3,2,92990
+534,HP,Victus Intel Core,Core i5 11th Gen 11400H,16,512,4.255 ,4,DDR4,16.1,1,57999
+535,Lenovo,Intel Core i3,Core i3 13th Gen 1315U,8,512,,,DDR5,16,1,39990
+536,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+537,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+538,Lenovo,IdeaPad Slim 5,Core i7 13th Gen 13620H,16,512,4.185 ,11,DDR5,14,,86190
+539,Lenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+540,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+541,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+542,ASUS,TUF Gaming F17,Core i5 12th Gen 12500H,8,512,4.56 ,1,DDR4,17.3,1,69990
+543,DELL,Intel Core i5,Core i5 11th Gen 1135G7,8,512,3.413 ,0,DDR4,15.6,1,46700
+544,HP,Envy x360 Creator,Core i5 12th Gen 1230U,16,512,4.3155 ,21,DDR4X,,1,78500
+545,Colorful,Evol P-15,Core i7 13th Gen 13620H,16,512,,,DDR5,15.6,2,89540
+546,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+547,Apple,2023 MacBook Pro,MacBook Pro Apple M2 Max,32,1,,0,,14,1,282990
+548,ASUS,Vivobook Go 14,Core i3 12th Gen N305,8,512,4.2164 ,19,DDR4,14,1,36990
+549,HP,OMEN Intel Core,Core i5 13th Gen 13420H,16,512,4.270 ,11,DDR5,16.1,1,90990
+550,Infinix,INBook X2 Plus Intel,Core i3 11th Gen 1115G4,8,256,4.2594 ,106,DDR4X,,1,25990
+551,ASUS,Zenbook 14 Flip OLED,Core i5 13th Gen 1340P,16,512,4.413 ,4,DDR5,14,1,99990
+552,ASUS,TUF Dash F15,Core i7 12th Gen 12650H,16,1,4.5216 ,22,DDR5,15.6,1,91500
+553,ASUS,Chromebook Intel Celeron,Intel Celeron Dual Core N4500,4,64,"3.81,057 ",113,DDR4X,14,1,13990
+554,ASUS,Vivobook S 15,Core i9 13th Gen 13900H,16,1,4.424 ,6,DDR5,15.6,1,109900
+555,ASUS,Vivobook Intel Core,Core i3 12th Gen 1215U,8,512,4.3341 ,55,DDR4,15.6,0211,35980
+556,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+557,MSI,Pulse 17 AI Intel,Intel Core Ultra 9 185H,32,1,,,DDR5,17,2,189990
+558,HP,250 G9 Intel Celeron,Intel Celeron Dual Core N4500,8,256,,,DDR4,15.6,11,23690
+559,ASUS,X1502ZA Intel Core,,8,512,,,DDR4,15.6,1,37990
+560,Lenovo,IdeaPad 3 Intel,Core i3 11th Gen 1115G4,8,512,4.4324 ,40,DDR4,15.6,2,35700
+561,Lenovo,Ideapad Intel Core,Core i5 11th Gen 11320H,16,512,,,DDR4,15.6,0211,54490
+562,ASUS,Intel Core i7,Intel Core i7 12th Gen,16,512,,,DDR4,15.6,1,101899
+563,Lenovo,IdeaPad Slim 3,Intel Celeron Dual Core N4020,8,256,3.36 ,0,DDR4,15.6,2,25899
+564,ASUS,TUF Gaming F15,Core i5 10th Gen 10300H,8,512,"4.46,074 ",634,DDR4,15.6,1,52500
+565,Acer,Aspire 7 Intel,Core i5 12th Gen 1240P,16,512,"4.31,170 ",121,DDR4,15.6,1,55490
+566,Acer,Intel Core i5,Intel Core i5 11th Gen,8,512,4.380 ,7,DDR4,15.6,1,41190
+567,Apple,2022 MacBook AIR,2022 MacBook AIR Apple M2,8,512,4.555 ,3,,13.6,1,107990
+568,Lenovo,IdeaPad Slim 3,Ryzen 7 Octa Core 5700U,16,512,4.2424 ,41,DDR4,15.6,1,50990
+569,HP,Spectre x360 Intel,Intel Core Ultra 7 155H,32,1,,,DDR5X,14,1,168990
+570,WINGS,Nuvobook V1 Aluminium Alloy,Core i5 11th Gen 1155G7,8,512,"4.11,827 ",364,DDR4,15.6,1,29990
+571,Acer,Extensa (2023,Ryzen 5 Quad Core 7520UThin and Light LaptopLPDDR5 RAM,8,512,"4.12,010 ",242,DDR5DDR5,15.6,1,32990
+572,MSI,Stealth 16 AI Studio,Intel Core Ultra 7 155H,32,1,,,DDR5,16,2,199990
+573,ASUS,ROG Strix G17,,16,1,4.712 ,5,DDR4,17.3,0191,132990
+574,ASUS,TUF Gaming A15,,8,1,"4.31,187 ",118,DDR4,15.6,1,58949
+575,HP,AMD Ryzen 5,Ryzen 5 Hexa Core 5500U,8,512,4.3583 ,54,DDR4,15.6,1,38990
+576,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+577,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+578,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,16,512,4.3378 ,36,DDR4,15.6,1,53990
+579,Acer,Aspire 3 Intel,Core i3 12th Gen 1215U,8,512,3.810 ,0,DDR5,15.6,1,33490
+580,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+581,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+582,Lenovo,IdeaPad Gaming 3,Core i7 12th Gen 12700H,16,512,4.616 ,2,DDR4,16,1,97790
+583,Lenovo,Intel Celeron Dual,Celeron Dual Core 4th Gen,8,256,3.7187 ,11,DDR4,15.6,1,18990
+584,HP,15s Intel Core,Core i3 11th Gen 1115G4,8,1,4.1365 ,27,DDR4,15.6,1,37980
+585,HP,Envy x360 Creator,Core i7 12th Gen 1250U,16,512,4.285 ,10,DDR4X,13.3,1,110700
+586,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+587,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+588,DELL,Inspiron Intel Core,Core i5 11th Gen 1155G7,16,512,,16,DDR4,14,1,69749
+589,Lenovo,Ideapad Gaming 3,Ryzen 5 Hexa Core 5600H,16,512,4.3824 ,79,DDR4,15.6,1,72000
+590,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+591,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+592,Infinix,Y4 Max Series,Core i7 13th Gen 1355U,16,512,4.110 ,0,DDR4X,16,1,52990
+593,Infinix,Y4 Max Series,Core i3 13th Gen 1315U,8,512,4.445 ,10,DDR4X,16,1,34990
+594,DELL,Intel Core i5,Intel Core i5 11th Gen,8,512,3.840 ,4,DDR4,14,1,37990
+595,DELL,G15 Intel Core,Core i5 12th Gen 12500H,16,512,4.1287 ,30,DDR5,,1,72400
+596,HP,Envy Intel Core,Core i5 11th Gen 1135G7,16,512,,6,DDR4,13.3,1,99203
+597,Lenovo,IdeaPad Slim 5,Core i7 13th Gen 13620H,16,512,4.185 ,11,DDR5,14,,86190
+598,Infinix,Y4 Max Series,Core i3 13th Gen 1315U,8,512,4.429 ,11,DDR4X,16,1,34990
+599,Lenovo,V15 AMD Ryzen,Ryzen 5 Hexa Core 5500U,8,512,3.772 ,7,DDR4,15.6,1,34980
+600,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+601,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+602,DELL,Inspiron AMD Ryzen,Ryzen 5 Hexa Core 5625U,8,512,,,DDR4,14,1,51990
+603,ASUS,Vivobook Ultra 14,Core i3 11th Gen 1115G4,8,512,4.3581 ,65,DDR4,14,1,36500
+604,ASUS,VivoBook K15 OLED,,16,512,"4.31,649 ",184,DDR4,15.6,1,63990
+605,ASUS,Intel Pentium Quad,Intel Pentium Quad Core N5030,4,1,"3.75,835 ",835,DDR4,15.6,1,21800
+606,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+607,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+608,HP,Intel Core i5,Core i5 13th Gen 1335U,8,512,4.2306 ,33,DDR4,15.6,1,55990
+609,DELL,Inspiron Intel Core,Core i5 11th Gen 1135G7,8,512,4.1211 ,21,DDR4,15.6,1,47890
+610,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+611,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+612,Infinix,ZERO BOOK Series,Core i5 12th Gen 12500H,16,512,4.2121 ,23,DDR5,15.6,1,52990
+613,Lenovo,ThinkPad E14 Intel,Core i3 12th Gen 1215U,8,512,3.817 ,2,DDR4,14,1,48500
+614,ASUS,Vivobook Pro 15,Ryzen 5 Hexa Core 5600HS,16,512,3.810 ,1,DDR4,15.6,1,56999
+615,Lenovo,IdeaPad Slim 5,Ryzen 7 Octa Core 7730U,16,512,4.718 ,4,DDR4,14,1,60190
+616,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+617,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+618,DELL,Inspiron 5620 Intel,Core i5 12th Gen 1235U,16,512,,,DDR5,16,1,61990
+619,SAMSUNG,Galaxy Book4 Pro,Intel Core Ultra 7 155H,16,512,4.73 ,1,DDR5X,16,0211,149990
+620,ASUS,ROG Strix G15,Ryzen 7 Octa Core 6800HS,16,1,4.3577 ,57,DDR5,15.6,1,94999
+621,Lenovo,IdeaPad 1 AMD,Ryzen 5 Quad Core 3500U,8,512,4.2805 ,82,DDR4,15.6,2,35990
+622,HP,AMD Ryzen 5,5 Quad Core R5 5500,8,512,3.847 ,5,DDR4,14,1,47990
+623,HP,OMEN Intel Core,Core i7 12th Gen 12700H,16,1,,,DDR5,16.1,0211,122990
+624,Lenovo,IdeaPad Slim 1,Ryzen 5 Quad Core 7520U,8,512,4.166 ,4,DDR5,15.6,0211,39990
+625,HP,Victus Intel Core,Core i5 12th Gen 12450H,8,512,4.230 ,4,DDR4,15.6,1,57490
+626,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+627,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+628,MICROSOFT,Surface Pro 9,Core i7 12th Gen 1255U,32,1,,,DDR5,13,1,261990
+629,Acer,Intel Core i5,Intel Core i5 11th Gen,16,512,4.253 ,2,DDR4,15.6,1,46499
+630,SponsoredLenovo,IdeaPad Flex 5,Core i7 13th Gen 1355U,16,512,4.816 ,2,DDR4X,14,0211,77190
+631,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+632,Lenovo,Yoga Slim 7,Intel Core Ultra 7 155H,32,1,,,DDR5X,14,1,107990
+633,DELL,G15 Intel Core,Core i5 12th Gen 12500H,16,512,4.1287 ,30,DDR5,,1,72400
+634,ASUS,VivoBook 15 (2022,Core i5 11th Gen 1135G7,8,1,"4.33,938 ",330,DDR4,15.6,0191,48500
+635,ASUS,Vivobook Pro 15,Ryzen 7 Octa Core 5800HS,16,512,4.420 ,2,DDR4,15.6,0211,73990
+636,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+637,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+638,ASUS,Zenbook S 13,Core i7 13th Gen 1335U,16,,,1,DDR5,13.3,1,119990
+639,ASUS,TUF Gaming F15,Core i7 12th Gen 12700H,16,51,4.4220 ,21,DDR4,15.6,1,99990
+640,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+641,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+642,HP,Laptop AMD Ryzen,Ryzen 3 Quad Core 5300U,8,512,4.574 ,10,DDR4,15.6,1,35055
+643,HP,Victus AMD Ryzen,Ryzen 7 Octa Core 5800H,16,512,4.526 ,0,DDR4,15.6,1,68990
+644,MSI,Modern 14 Intel Core,Core i5 13th Gen 1335U,8,512,4.152 ,6,DDR4,14,1,49990
+645,Lenovo,IdeaPad 3 Intel,Core i3 11th Gen 1115G4,8,512,"4.41,092 ",113,DDR4,15.6,0192,35100
+646,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+647,Acer,Extensa 15 AMD Ryzen,Ryzen 3 Quad Core 7320U,8,512,4.2224 ,24,DDR5,15.6,1,29990
+648,HP,Victus Intel Core,Core i5 12th Gen 12450H,8,512,4.3372 ,37,DDR4,15.6,1,58990
+649,ASUS,Vivobook Go 14,Intel Celeron Dual Core N4500,8,256,3.9153 ,10,DDR4,14,1,27990
+650,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+651,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+652,HP,250 G8 Intel Core,,8,1,3.85 ,0,DDR4,15.6,,49990
+653,HP,14s AMD Ryzen,AMD Ryzen 3 Quad Core,8,512,4.5898 ,177,DDR4,14,1,43999
+654,SAMSUNG,Galaxy Book3 Pro,Core i5 13th Gen 1340P,16,512,,,DDR5,16,1,145990
+655,HP,Envy x360 (2023,Ryzen 5 Hexa Core 7530U,16,512,,,DDR4X,15.6,1,81990
+656,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+657,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+658,DELL,Alienware Intel Core,Core i7 12th Gen 12700H,32,1,,,DDR5,17.3,1,237890
+659,Acer,Predator Helios Neo,Core i9 14th Gen 14900HX,16,1,,,DDR5,16,1,179999
+660,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+661,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+662,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,8,512,,,DDR4,15.6,1,55990
+663,HP,Intel Core i7,Core i7 13th Gen 1355U,16,512,,,DDR4X,13.5,1,159999
+664,HP,OMEN ARM Ryzen,ARM Ryzen 7 Octa Core,16,512,,,DDR5,16.1,1,129490
+665,ASUS,Vivobook S 14,,8,512,4.45 ,0,DDR4,14.1,1,57990
+666,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+667,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+668,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,16,512,,3,DDR4,15.6,1,59490
+669,HP,15s (2023,Core i3 13th Gen 1315U,8,512,4.2228 ,23,DDR4,15.6,1,44990
+670,Infinix,X1 Slim Series,Core i5 10th Gen 1035G1,8,512,4.1959 ,132,DDR4X,14,1,41990
+671,SAMSUNG,Galaxy Book3 Pro,Core i7 13th Gen 1360P,16,1,4.114 ,1,DDR5,14,1,140990
+672,HP,250 G8 Intel Core,Intel Core i3 11th Gen,8,512,3.8241 ,26,DDR4,15.6,1,32790
+673,ASUS,X1504ZA Intel Core,,8,512,,2,DDR4,15.6,,35690
+674,Acer,Aspire AMD Ryzen,Ryzen 5 Quad Core 3500U,8,512,4.3389 ,43,DDR4,15.6,1,34200
+675,DELL,Latitude Intel Core,Core i3 11th Gen 1115G4,8,512,,,DDR4,14,1,32500
+676,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+677,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+678,DELL,AMD Ryzen 7,,16,512,4.114 ,2,DDR5,,1,91991
+679,HP,Envy x360 Creator,Core i5 12th Gen 1230U,8,512,4.493 ,16,DDR4X,13.3,1,81990
+680,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+681,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+682,Infinix,Y4 Max Series,Core i7 13th Gen 1355U,16,512,4.110 ,0,DDR4X,16,1,52990
+683,Lenovo,Legion Intel Core,Core i9 14th Gen 14900HX,32,1,,,DDR5,16,0211,374990
+684,DELL,Vostro AMD Ryzen,Ryzen 5 Hexa Core 5625U,16,512,4.511 ,0,DDR4,14,1,56590
+685,ASUS,VivoBook K15 OLED,Core i3 11th Gen 1115G4,8,256,"4.41,721 ",272,DDR4,15.6,0211,39400
+686,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+687,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+688,DELL,AMD Ryzen 3,,8,512,4.211 ,0,DDR4,15.6,1,35190
+689,ASUS,Vivobook 16X AMD,,16,512,4.559 ,4,DDR4,16,1,57000
+690,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+691,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+692,DELL,Inspiron 15 3520,i5 12th Gen Core i5,8,512,3.515 ,3,DDR4,15.6,0211,48889
+693,HP,15s Intel Core,Core i3 11th Gen 1115G4,8,512,"4.312,221 ",944,DDR4,15.6,1,42999
+694,ASUS,ZenBook 13 Intel Core,Core i5 8th Gen 8250U,8,256,4.5517 ,92,DDR3,13.3,1,51840
+695,Acer,Predator Neo (2023,Core i7 13th Gen 13700HX,16,1,4.5570 ,62,DDR5,16,1,119999
+696,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+697,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+698,Lenovo,IdeaPad Slim 1,Ryzen 5 Quad Core 7520U,8,512,4.166 ,4,DDR5,15.6,0211,39990
+699,ASUS,ROG Flow X16,Ryzen 7 Octa Core 6800HS,16,1,4.510 ,2,DDR5,16,1,129990
+700,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+701,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+702,HP,Intel Intel Core,Core i5 11th Gen 1155G7,8,512,"4.33,630 ",272,DDR4,15.6,1,46880
+703,MICROSOFT,Surface Pro 9,Core i7 12th Gen 1255U,16,256,,,DDR5,13,1,162990
+704,MSI,GF63 Intel Core,Core i5 12th Gen 12450H,16,1,4.373 ,12,DDR4,15.6,2,86990
+705,HP,ENVY Intel Core,Intel Core Ultra 7 155U,32,1,,,DDR5,14,1,136342
+706,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+707,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+708,ASUS,Vivobook Pro 15,Ryzen 7 Octa Core 5800HS,16,512,4.420 ,2,DDR4,15.6,0211,73990
+709,HP,Intel Core i3,Intel Core i3 11th Gen,8,512,4.332 ,4,DDR4,15.6,,36790
+710,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+711,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+712,ASUS,Vivobook 15 (2023,Core i3 13th Gen 1315U,8,512,,,DDR4,15.6,1,39990
+713,MSI,Prestige 16 AI Evo,Intel Core Ultra 7 155H,16,1,,,DDR5,16,2,119990
+714,Infinix,Y4 Max Series,Core i3 13th Gen 1315U,16,512,4.445 ,10,DDR4X,16,1,36990
+715,HP,255 G9 AMD Ryzen,,8,512,,,DDR4,15.6,1,30999
+716,Infinix,X2 Slim Intel,Core i3 11th Gen 1115G4,8,512,"4.21,139 ",159,DDR4X,14,1,30511
+717,ASUS,Vivobook 16 (2023,Ryzen 5 Hexa Core 7530U,16,1,4.476 ,7,DDR4,16,1,66990
+718,Acer,Intel Core i3,Intel Core i3 11th Gen,8,512,4.3180 ,21,DDR4,15.6,1,31890
+719,DELL,Inspiron 5000 Intel,Core i5 13th Gen 1340P,16,512,,,DDR5,16,,74890
+720,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+721,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+722,Acer,TravelMate P2 Intel Core,Core i7 11th Gen 1165G7,16,512,3.6154 ,33,DDR4,14,1,49990
+723,MSI,Pulse 17 Intel Core,Core i7 13th Gen 13700H,16,1,4.29 ,2,DDR5,17.3,2,164990
+724,DELL,Inspiron Intel Core,Core i5 13th Gen 1335U,8,512,3.615 ,2,DDR5,14,0211,59450
+725,ASUS,Vivobook Go 15,Ryzen 5 Quad Core 7520U,8,512,"4.41,233 ",124,DDR5,15.6,1,50990
+726,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+727,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+728,MICROSOFT,Surface Pro 9,Core i7 12th Gen 1255U,16,256,,,DDR5,13,1,162990
+729,MSI,GF63 Intel Core,Core i5 12th Gen 12450H,16,1,4.373 ,12,DDR4,15.6,2,86990
+730,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+731,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+732,HP,ENVY Intel Core,Intel Core Ultra 7 155U,32,1,,,DDR5,14,1,136342
+733,ASUS,Vivobook Pro 15,Ryzen 7 Octa Core 5800HS,16,512,4.420 ,2,DDR4,15.6,0211,73990
+734,HP,Intel Core i3,Intel Core i3 11th Gen,8,512,4.332 ,4,DDR4,15.6,,36790
+735,ASUS,Vivobook 15 (2023,Core i3 13th Gen 1315U,8,512,,,DDR4,15.6,1,39990
+736,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+737,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+738,HP,Chromebook (2023,,8,256,4.324 ,4,DDR4X,13.3,1,33990
+739,ASUS,Zenbook S 13,Ryzen 7 Octa Core 6800U,16,1,,,DDR5,13.3,1,123999
+740,HP,15s (2023,Ryzen 5 Quad Core 7520U,8,512,4.361 ,5,DDR5,15.6,1,44990
+741,Lenovo,IdeaPad Slim 1,Ryzen 5 Quad Core 7520U,8,512,4.166 ,4,DDR5,15.6,0211,39990
+742,ASUS,ROG Flow X16,Ryzen 7 Octa Core 6800HS,16,1,4.510 ,2,DDR5,16,1,129990
+743,HP,Intel Intel Core,Core i5 11th Gen 1155G7,8,512,"4.33,630 ",272,DDR4,15.6,1,46880
+744,Acer,Intel Core i3,Intel Core i3 11th Gen,8,512,4.3180 ,21,DDR4,15.6,1,31890
+745,MSI,Prestige 16 AI Evo,Intel Core Ultra 7 155H,16,1,,,DDR5,16,2,119990
+746,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+747,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+748,Infinix,Y4 Max Series,Core i3 13th Gen 1315U,16,512,4.445 ,10,DDR4X,16,1,36990
+749,Infinix,X2 Slim Intel,Core i3 11th Gen 1115G4,8,512,"4.21,139 ",159,DDR4X,14,1,30511
+750,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+751,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+752,DELL,Inspiron Intel Core,i5 12th Gen Core i5,8,512,4.433 ,2,DDR4,15.6,0211,48490
+753,Ultimus,Pro Intel Celeron,Pro Intel Celeron Dual Core,8,256,3.85 ,1,DDR4,14.1,1,15990
+754,Lenovo,LOQ Intel Core,Core i7 13th Gen 13620H,16,512,4.2116 ,24,DDR5,15.6,0211,96990
+755,ASUS,Intel Core i5,Intel Core i5 13th Gen,16,512,4.52 ,2,DDR4,15.6,1,64990
+756,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+757,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+758,Lenovo,IdeaPad Slim 5i,Core i5 13th Gen 13500H,16,512,,,DDR5,16,1,69000
+759,Lenovo,IdeaPad 1 15IGL7,Dual Core 4th Gen N4020,8,256,4.36 ,1,DDR4,15.6,1,26490
+760,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+761,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+762,Apple,MacBook Pro Intel,Intel Core i5 8th Gen,8,512,4.2109 ,13,DDR3,13.3,1,162990
+763,HP,Pavilion Intel Core,Core i5 11th Gen 1155G7,16,512,4.4300 ,25,DDR4,14,0191,62754
+764,LG,Gram Intel Core,Core i5 12th Gen 1240P,8,512,4.33 ,0,DDR5,14,,64762
+765,Lenovo,IdeaPad Slim 5i,Core i5 11th Gen 1135G7,16,512,"4.41,261 ",140,DDR4,15.6,0191,56199
+766,HP,Intel Core i5,Core i5 12th Gen 12450H,8,512,,,DDR4,15.6,1,72990
+767,HP,Laptop Intel Core,Core i3 11th Gen 1115G4,8,512,"4.21,062 ",93,DDR4,15.6,1,39500
+768,Lenovo,IdeaPad 1 15IGL7,Dual Core 4th Gen N4020,8,256,4.36 ,1,DDR4,15.6,1,26490
+769,ASUS,AMD Ryzen 7,Octa Core 10th Gen 5800H,16,512,,,DDR4,15.6,1,74850
+770,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+771,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+772,ASUS,Vivobook 14 AMD Ryzen,Core AMD Ryzen 3 3250U,8,256,4.267 ,6,DDR4,14.1,1,34300
+773,ASUS,ExpertBook P2 Intel Core,Core i7 10th Gen 10510U,8,1,,,DDR4,14,3,70279
+774,Lenovo,V15 Intel Core,Core i3 11th Gen 1115G4,4,256,4.3177 ,13,DDR4,15,0191,32990
+775,HP,Laptop AMD Ryzen,Ryzen 3 Quad Core 5300U,8,512,4.574 ,10,DDR4,15.6,1,35055
+776,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+777,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+778,ASUS,Vivobook 15 Intel Core,Core i3 12th Gen 1215U,8,512,4.3341 ,55,DDR4,15.6,1,35881
+779,ASUS,Vivobook 16X For,Core i7 12th Gen 12650H,16,512,4.265 ,9,DDR4,16,1,78990
+780,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+781,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+782,ASUS,ROG Strix G15,Ryzen 7 Octa Core 6800HS,16,512,4.3577 ,57,DDR5,15.6,1,77990
+783,ASUS,Vivobook 16X Intel,Core i5 12th Gen 12500H,8,512,,,DDR4,16,1,69990
+784,Lenovo,AMD Ryzen 5,,8,512,,,DDR4,15.6,1,50100
+785,HP,15s (2023,Core i5 13th Gen 1335U,8,512,4.2306 ,33,DDR4,15.6,1,59990
+786,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+787,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+788,Lenovo,Yoga Slim 7,Core i7 13th Gen 1360P,16,1,,,DDR5,13.3,1,129889
+789,SAMSUNG,Galaxy Book4 360,Evo Intel Core 7 150U,16,512,,2,DDR5,15.6,0211,122990
+790,ASUS,VivoBook Gaming Intel,Core i5 9th Gen 9300H,8,1,4.3120 ,26,DDR4,15.6,1,72500
+791,MSI,Prestige 14 Intel Core,Core i7 10th Gen 10510U,16,512,3.9103 ,14,DDR4,14,1,66047
+792,HP,Pavilion AMD Ryzen,Ryzen 5 Hexa Core 5625U,8,512,"4.42,009 ",215,DDR4,15.6,1,51990
+793,HP,15s Intel Core,Core i9 11th Gen 11900H,32,1,,,DDR4,15.6,1,189400
+794,Acer,Aspire 5 Intel,Core i5 11th Gen 1135G7,8,1,3.7346 ,35,DDR4,14,1,37990
+795,Lenovo,THINKBOOK AMD Ryzen,Ryzen 7 Octa Core 7730U,16,512,4.336 ,3,DDR4,16,1,48490
+796,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+797,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+798,ASUS,Zenbook Pro 14,Core i5 13th Gen 13500H,16,,,,DDR5,14.5,1,199990
+799,ASUS,Intel Core i5,Intel Core i5 11th Gen,8,512,,,DDR4,17,1,56499
+800,SponsoredAXL,Intel Celeron Dual,Celeron Dual Core 9th Gen,4,256,4.234 ,3,DDR4,15.6,1,16990
+801,Acer,AMD Ryzen 5,AMD Ryzen 5 Quad Core,8,512,,,DDR5,15.6,1,31690
+802,ASUS,Zenbook 14 OLED (2023,Ryzen 5 Hexa Core 7530U,16,512,4.640 ,3,DDR4X,14,1,79990
+803,ASUS,Vivobook 15 Intel Core,Core i3 11th Gen 1115G4,8,256,4.4218 ,22,DDR4,15.6,1,31992
+804,Lenovo,V14 Intel Core,Intel Core i5 11th Gen,8,512,,,DDR4,14,1,45990
+805,HP,Intel Core i7,Intel Core i7 12th Gen,16,1,4.79 ,1,DDR4,15.6,,91200
+806,HP,Laptop 15s Intel,Dual Core Intel Celeron N4500,8,512,3.880 ,10,DDR4,15.6,1,29490
+807,Lenovo,Lenovo Legion Slim,Ryzen 7 Octa Core 7840HS,16,512,,0,DDR5,16,1,128990
+808,HP,14s (2023,Core i3 11th Gen 1115G4,8,512,4.4251 ,17,DDR4,14,1,43990
+809,Acer,TravelMate P2 Intel Core,Core i7 11th Gen 1165G7,16,512,3.6154 ,33,DDR4,14,1,49990
+810,Lenovo,IdeaPad Flex 5,Ryzen 5 Hexa Core 5500U,8,512,4.659 ,13,DDR4,14,0191,79000
+811,ASUS,AMD Ryzen 7,7 Octa Core 10th Gen,16,512,,,DDR4,15.6,1,73950
+812,Acer,One 11 Intel Celeron,Intel Celeron Dual Core N4500,8,128,3.3148 ,22,DDR4,11.6,1,19982
+813,HP,14a Intel Celeron,Intel Celeron Dual Core N4500,4,64,3.7993 ,116,DDR4,14,1,25900
+814,Infinix,INBook Y1 Plus Intel,Core i3 10th Gen 1005G1,8,512,"4.24,423 ",547,DDR4X,,1,28990
+815,Acer,Nitro 5 Intel,Core i5 12th Gen 12450H,16,512,4.4614 ,65,DDR4,15.6,1,71999
+816,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+817,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+818,ASUS,VivoBook 14 (2021,Intel Celeron Dual Core N4020,4,256,"4.13,085 ",321,DDR4,14,1,25990
+819,ASUS,Vivobook 14 (2023,Core i3 13th Gen 1315U,8,512,4.1110 ,15,DDR4,14,1,42990
+820,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+821,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+822,Acer,Aspire 7 (2023,Core i5 12th Gen 12450H,16,512,"4.21,540 ",149,DDR4,15.6,1,55490
+823,MSI,Pulse 17 Intel Core,Core i7 13th Gen 13700H,16,1,4.76 ,0,DDR5,17.3,2,169990
+824,MICROSOFT,Laptop Go 3 Intel,Core i5 12th Gen 1235U,8,256,3.86 ,1,DDR5,12.4,1,79990
+825,DELL,Inspiron AMD Ryzen,,8,512,4.524 ,1,DDR4,14,0211,67690
+826,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+827,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+828,MSI,Cyborg 15 AI Intel,Intel Core Ultra 7 155H,16,1,,,DDR5,15.6,2,114990
+829,ASUS,Vivobook Pro 15,Core AMD Ryzen 5 5600H,16,512,,,DDR4,15.6,1,69899
+830,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+831,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+832,Infinix,Y4 Max Series,Core i3 13th Gen 1315U,16,512,4.445 ,10,DDR4X,16,1,36990
+833,WINGS,Nuvobook S1 Aluminium Alloy,Core i3 11th Gen 1125G4,8,256,4.2608 ,114,DDR4,15.6,1,23990
+834,HP,OMEN Intel Core,Core i7 11th Gen 11800H,16,1,4.110 ,2,DDR4,16.1,1,117900
+835,DELL,Inspiron Intel Core,Core i5 13th Gen 13450HX,8,512,,,DDR5,15.6,1,74990
+836,WINGS,Nuvobook S2 Aluminium Alloy,Core i3 11th Gen 1125G4,8,512,4.2608 ,114,DDR4,15.6,1,24990
+837,Apple,MacBook Air Apple,Apple MacBook Air Apple M3,8,512,4.923 ,4,,15,1,145490
+838,DELL,Intel Core i3,Intel Core i3 13th Gen,8,512,4.85 ,2,DDR4,15.6,1,45000
+839,Infinix,Y4 Max Series,Core i3 13th Gen 1315U,16,512,4.429 ,11,DDR4X,16,1,36990
+840,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+841,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+842,Acer,Aspire 5 15,Core i5 13th Gen 1335U,16,512,4.427 ,3,DDR5,15.6,1,55990
+843,WINGS,Nuvobook S1 Aluminium Alloy,Core i3 11th Gen 1125G4,8,256,4.2608 ,114,DDR4,15.6,1,23990
+844,Acer,Swift Go 14,Ryzen 5 Hexa Core 7530U,8,512,4.226 ,1,DDR4X,14,1,49990
+845,Lenovo,V15 AMD Ryzen,Ryzen 3 Quad Core 7320U,8,512,4.145 ,8,DDR5,15.6,1,29990
+846,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+847,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+848,Lenovo,LOQ Intel Core,Core i5 12th Gen 12450H,16,512,4.4519 ,68,DDR5,15.6,0211,79990
+849,HP,Intel Core i7,Core i7 13th Gen 1355U,16,512,,,DDR5,15.6,1,113990
+850,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+851,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+852,HP,Pavilion Intel Core,Core i5 11th Gen 1135G7,16,512,4.5187 ,8,DDR4,14,1,69000
+853,HP,G8 Intel Core,Core i5 11th Gen 11500,16,512,4.38 ,0,DDR4,15.6,1,46990
+854,Lenovo,Ideapad Intel Celeron,Intel Celeron Dual Core N4020,4,64,3.39 ,2,DDR4,11.6,1,15980
+855,ASUS,Intel Core i5,Intel Core i5 13th Gen,16,512,,,DDR4,16,,62990
+856,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+857,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+858,Lenovo,IdeaPad Slim 3,Core i3 12th Gen 1215U,8,512,4.1660 ,58,DDR4,,2,37900
+859,Lenovo,ThinkPad E14 Intel,Core i5 12th Gen 1235U,16,1,3.916 ,1,DDR4,14,1,72990
+860,HP,Victus Intel Core,Core i7 12th Gen 12650H,16,512,4.327 ,3,DDR4,15.6,1,81503
+861,ASUS,TUF Gaming F15,Core i5 10th Gen 10300H,16,512,4.5886 ,112,DDR4,15.6,1,57999
+862,Infinix,X2 Slim Series,Core i5 11th Gen 1155G7,8,512,4.1257 ,43,DDR4X,14,1,32990
+863,Infinix,INBook X2 Plus Intel,Core i5 11th Gen 1155G7,16,512,4.3388 ,60,DDR4X,15.6,1,52990
+864,MSI,Katana 17 Intel Core,Core i7 12th Gen 12650H,16,1,4.88 ,1,DDR5,17.3,2,149990
+865,HP,G Series Intel,Core i3 10th Gen 1005G1,4,512,4.3207 ,14,DDR4,15.6,,31999
+866,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+867,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+868,DELL,Inspiron Intel Core,Core i3 11th Gen 1115G4,8,1,4.217 ,0,DDR4,15.6,0191,43500
+869,ASUS,Intel Core i5,Intel Core i5 12th Gen,16,512,,1,DDR4,15.6,,52782
+870,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+871,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+872,Infinix,ZEROBOOK 13 Intel Intel,Core i9 13th Gen 13900H,32,1,4.1619 ,103,DDR5X,15.6,1,74990
+873,HP,Intel Core i7,Intel Core i7 12th Gen,16,512,,,DDR4X,13.3,,101790
+874,Ultimus,Intel Celeron Dual,Intel Celeron Dual Core N4020,4,128,,,DDR4,14.1,1,12990
+875,Infinix,INBook X2 Plus Intel,Core i7 11th Gen 1195G7,16,512,3.978 ,17,DDR4X,15.6,1,57990
+876,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+877,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+878,ASUS,VivoBook Ultra AMD,,8,512,4.281 ,8,DDR4,14,1,57600
+879,ASUS,Chromebook Intel Celeron,Intel Celeron Dual Core N4500,4,64,3.846 ,3,DDR4X,14,1,25751
+880,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+881,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+882,Acer,Nitro 5 AMD,Ryzen 7 Octa Core 5800H,16,1,4.4357 ,46,DDR4,15.6,1,73990
+883,Ultimus,Elite Intel Core,Core i5 10th Gen 1035G4,8,512,3.7291 ,75,DDR4,14.1,1,26990
+884,HP,255 G9 Silver AMD,,8,512,4.310 ,1,DDR4,15.6,1,32999
+885,Apple,MacBook Air Apple,Apple MacBook Air Apple M3,8,256,4.923 ,4,,13,1,107990
+886,WINGS,Nuvobook S1 Aluminium Alloy,Core i3 11th Gen 1125G4,8,256,4.2608 ,114,DDR4,15.6,1,23990
+887,ASUS,ExpertBook B9 Intel Core,Core i5 10th Gen 10210U,8,512,,,DDR3,14,1,69911
+888,HP,15s (2023,Core i3 13th Gen 1315U,8,512,4.2228 ,23,DDR4,15.6,1,44990
+889,ASUS,TUF Gaming A17,Ryzen 7 Octa Core 6800HS,16,1,,2,DDR5,17.3,1,122999
+890,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+891,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+892,MSI,Summit E16Flip Intel,Core i7 13th Gen 1360P,32,1,4.65 ,0,DDR5,16,2,159990
+893,HP,OMEN Intel Core,Core i7 13th Gen 13700HX,16,512,,,DDR5,16.1,1,153490
+894,Acer,Aspire 3 Spin,Core i3 13th Gen N305,8,512,4.614 ,1,DDR5,14,1,41990
+895,ASUS,Vivobook S15 OLED,Core i7 12th Gen 12700H,16,512,4.196 ,8,DDR4,15.6,1,84990
+896,SponsoredLenovo,IdeaPad Flex 5,Core i7 13th Gen 1355U,16,512,4.816 ,2,DDR4X,14,0211,77190
+897,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+898,ASUS,VivoBook 15 (2021,Core i5 10th Gen 1035G1,8,512,4.3635 ,59,DDR4,15.6,0211,41990
+899,Avita,Pura E Intel,Core i3 10th Gen 10110U,4,256,,,DDR4,14,1,19990
+900,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+901,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+902,Infinix,X2 Slim Series,Core i5 11th Gen 1155G7,16,1,4.2289 ,40,DDR4X,14,1,42890
+903,Lenovo,IdeaPad Slim 5i,Core i5 13th Gen 13500H,16,512,,,DDR5,16,1,69000
+904,MICROSOFT,Laptop Go 3 Intel,Core i5 12th Gen 1235U,16,256,,,DDR5,12.4,1,99990
+905,HP,Intel Core i3,Intel Core i3 11th Gen,8,512,4.332 ,4,DDR4,15.6,,36200
+906,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+907,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+908,Infinix,Intel Core i7,Core i7 10th Gen 1065G7,8,512,,,DDR4X,14,1,39990
+909,ASUS,Vivobook Flip S,Core i5 12th Gen 12500H,8,512,4.355 ,8,DDR4,14,1,94000
+910,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,15.6,1,22990
+911,ASUS,VivoBook 16X AMD,Ryzen 7 Octa Core 5800HS,16,512,4.4156 ,12,DDR4,16,1,57790
+912,Acer,AMD Ryzen 5,Ryzen 5 Hexa Core 6600H,8,1,,,DDR5,15.6,1,73039
+913,Lenovo,Lenovo LOQ AI,Ryzen 7 Octa Core 7840HS,16,512,4.460 ,8,DDR5,15.6,0211,116990
+914,Infinix,INBook X1 Neo Series,Intel Celeron Quad Core N5100,4,128,"4.11,132 ",154,DDR4X,14,1,22890
+915,HP,AMD Ryzen 7,Ryzen 7 Octa Core 5700U,16,512,,,DDR4,15.6,1,55400
+916,SponsoredLenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512,4.318 ,0,DDR5,15.6,1,59390
+917,SponsoredLenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512,4.2248 ,37,DDR5,16,,71990
+918,Infinix,X2 Slim Intel,Core i3 11th Gen 1115G4,8,512,"4.21,139 ",159,DDR4X,14,1,30511
+919,ASUS,Vivobook 15 Intel Core,Core i3 11th Gen 1115G4,8,512,4.477 ,2,DDR4,15.6,1,38500
+920,SponsoredLenovo,IdeaPad Flex 5,Core i7 13th Gen 1355U,16,512,4.816 ,2,DDR4X,14,0211,77190
+921,SponsoredLenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512,4.2103 ,12,DDR5,14,1,60190
+922,HP,Pavilion (2023,Core i5 12th Gen 1240P,16,512,4.2119 ,12,DDR4,15.6,0211,75490
+923,Lenovo,AMD Ryzen 3,Ryzen 3 Hexa Core 5300U,8,512,4.326 ,4,DDR4,15.6,1,33190
+924,ASUS,Vivobook 15 Intel Core,Core i5 12th Gen 1235U,8,512,4.127 ,2,DDR4,15.6,1,45590
+925,Acer,Aspire 3 Intel,Core i3 12th Gen 1215U,8,512,3.810 ,0,DDR5,15.6,1,33490
+926,SponsoredCHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256,3.7327 ,54,DDR4,15.6,1,18990
+927,SponsoredCHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256,,15,DDR5,14.1,1,18990
+928,MSI,Prestige 13 AI Evo,Intel Core Ultra 7 155H,16,1,,,DDR5,13.3,2,106990
+929,ASUS,AMD Ryzen 5,AMD Ryzen 5 Hexa Core,8,512,4.618 ,2,DDR4,15.6,,39999
+930,SponsoredLenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512,4.621 ,8,DDR4X,14,1,77190
+931,SponsoredAXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256,3.521 ,0,DDR4,15.6,1,16990
+932,ASUS,Intel Core i3,Intel Core i3 10th Gen,4,1,3.850 ,9,DDR4,15.6,1,31500
+933,Ultimus,Elite Intel Core,Intel Core i5 10th Gen,8,512,3.7291 ,75,DDR4,14.1,1,26990
+934,Lenovo,IdeaPad Flex 5,Ryzen 5 Hexa Core 7530U,16,512,4.534 ,4,DDR4X,14,0211,64400
+935,Lenovo,V15 AMD Ryzen,Ryzen 5 Hexa Core 5500U,8,512,"4.21,256 ",128,DDR4,15.6,1,33941

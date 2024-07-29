@@ -1,0 +1,547 @@
+,brand,model,processor,ram,memory,ratings,reviews,ram_version,display_inch,warranty,price,price_cat,rating_cat
+0,Ultimus,Intel Celeron Dual,Intel Celeron Dual Core N4020,4,128.0,4.2,13.0,DDR4,14.0,1.0,12990,low,good
+1,Ultimus,Intel Celeron Dual,Ultimus Intel Celeron Dual Core,4,128.0,4.2,13.0,DDR4,14.0,1.0,12990,low,good
+2,CHUWI,Intel Celeron Dual,Dual Core 10th Gen N4020,4,128.0,3.9,5.0,DDR4,12.0,1.0,12990,low,average
+3,Primebook,S Wifi MediaTek,Primebook S Wifi MediaTek MT8183,4,128.0,4.4,60.0,DDR4,12.0,1.0,13990,low,good
+4,Primebook,4G Android Based,4G Android Based MediaTek MT8788,4,64.0,4.2,60.0,DDR4,12.0,1.0,13990,low,good
+5,ASUS,Chromebook Intel Celeron,Intel Celeron Dual Core N4500,4,64.0,3.9,60.0,DDR4X,14.0,1.0,13990,low,average
+6,Lenovo,Ideapad Intel Celeron,Intel Celeron Dual Core N4020,4,64.0,3.9,2.0,DDR4,12.0,1.0,15980,low,average
+7,Ultimus,Pro Intel Celeron,Pro Intel Celeron Dual Core,8,256.0,3.9,1.0,DDR4,14.0,1.0,15990,low,average
+8,Avita,SATUS Intel Celeron,Intel Celeron Dual Core N4020,4,128.0,3.9,60.0,DDR4,14.0,1.0,15990,low,average
+9,AXL,Intel Celeron Dual,Celeron Dual Core 9th Gen,4,256.0,4.2,3.0,DDR4,16.0,1.0,16990,low,good
+10,CHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256.0,3.9,54.0,DDR4,14.0,1.0,16990,low,average
+11,AXL,Intel Celeron Dual,SponsoredAXL Intel Celeron Dual Core,4,256.0,3.9,60.0,DDR4,16.0,1.0,16990,low,average
+12,AXL,Intel Celeron Dual,AXL Intel Celeron Dual Core,4,256.0,3.9,60.0,DDR4,16.0,1.0,16990,low,average
+13,CHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256.0,4.2,15.0,DDR5,14.0,1.0,18990,low,good
+14,CHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256.0,4.2,15.0,DDR5,14.0,1.0,18990,low,good
+15,CHUWI,Intel Celeron Dual,Dual Core 11th Gen N4020,8,256.0,3.9,54.0,DDR4,16.0,1.0,18990,low,average
+16,Infinix,Y1 Plus Neo,Quad Core 11th Gen N5100,4,128.0,4.2,60.0,DDR4X,16.0,1.0,18990,low,good
+17,Lenovo,Intel Celeron Dual,Celeron Dual Core 4th Gen,8,256.0,3.9,11.0,DDR4,16.0,1.0,18990,low,average
+18,Acer,One 11 Intel Celeron,Intel Celeron Dual Core N4500,8,128.0,3.9,22.0,DDR4,12.0,1.0,19982,low,average
+19,ASUS,Chromebook Intel Celeron,Intel Celeron Dual Core N4500,8,128.0,3.9,68.0,DDR4X,16.0,1.0,19990,low,average
+20,Avita,Pura E Intel,Core i3 10th Gen 10110U,4,256.0,4.2,13.0,DDR4,14.0,1.0,19990,low,good
+21,Lenovo,V15 Intel Celeron,Celeron Dual Core 4th Gen,8,256.0,4.2,60.0,DDR4,16.0,1.0,19990,low,good
+22,Lenovo,Intel Celeron Dual,Celeron Dual Core 4th Gen,8,256.0,3.9,11.0,DDR4,16.0,1.0,20890,low,average
+23,HP,360 Intel Celeron,Intel Celeron Dual Core N4120,4,64.0,3.9,96.0,DDR4,14.0,1.0,20990,low,average
+24,HP,G9 SERIES AMD,AMD Athlon Dual Core 3050U,4,256.0,3.9,1.0,DDR4,16.0,1.0,20990,low,average
+25,HP,360 Intel Celeron,Intel Celeron Quad Core N4120,4,64.0,4.2,86.0,DDR4,14.0,1.0,20990,low,good
+26,Acer,One 11 Intel Celeron,Intel Celeron Dual Core N4500,8,256.0,3.9,22.0,DDR4,12.0,1.0,21290,low,average
+27,ASUS,Intel Pentium Quad,Intel Pentium Quad Core N5030,4,1000.0,3.9,60.0,DDR4,16.0,1.0,21800,low,average
+28,Infinix,INBook X1 Neo Series,Intel Celeron Quad Core N5100,4,128.0,4.1,60.0,DDR4X,14.0,1.0,22890,low,good
+29,Infinix,Y1 Plus Neo,Core 11th Gen JSL N5100,8,512.0,4.2,60.0,DDR4X,16.0,1.0,22990,low,good
+30,Infinix,INBook X1 Neo Series,Quad Core 11th Gen N5100,4,128.0,4.2,60.0,DDR4X,14.0,1.0,22990,low,good
+31,CHUWI,Intel Celeron Quad,Quad Core 12th Gen N100,8,256.0,4.2,15.0,DDR5,16.0,1.0,22990,low,good
+32,HP,250 G9 Intel Celeron,Intel Celeron Dual Core N4500,8,256.0,4.2,13.0,DDR4,16.0,1.0,23690,low,good
+33,HP,G9 AMD Ryzen,Ryzen 3 Dual Core 3250U,8,512.0,3.9,10.0,DDR4,16.0,1.0,23990,low,average
+34,WINGS,Nuvobook S1 Aluminium Alloy,Core i3 11th Gen 1125G4,8,256.0,4.3,60.0,DDR4,16.0,1.0,23990,low,good
+35,HP,255 G9 841W6pa,AMD Ryzen 3 Dual Core,8,512.0,3.9,15.0,DDR4,16.0,1.0,23990,low,average
+36,HP,G9245 Silver 841w7paA,Core AMD Ryzen 3 3250U,8,512.0,4.0,3.0,DDR4,14.0,1.0,23999,low,average
+37,Lenovo,V15 Series AMD,AMD Athlon Dual Core 7120U,8,512.0,4.2,19.0,DDR5,16.0,1.0,24162,low,good
+38,Infinix,INBook X1 Neo Series,Intel Celeron Quad Core N5100,8,256.0,4.2,60.0,DDR4X,14.0,1.0,24990,low,good
+39,WINGS,Nuvobook S2 Aluminium Alloy,Core i3 11th Gen 1125G4,8,512.0,4.3,60.0,DDR4,16.0,1.0,24990,low,good
+40,Lenovo,Lenovo Ideapad Slim,Intel Celeron Dual Core N4020,8,256.0,4.1,60.0,DDR4,14.0,2.0,25300,low,good
+41,Infinix,Inbook Y2 Plus Intel,Core i3 11th Gen 1115G4,8,512.0,4.1,60.0,DDR4X,16.0,1.0,25490,low,good
+42,ASUS,Chromebook Intel Celeron,Intel Celeron Dual Core N4500,4,64.0,3.9,3.0,DDR4X,14.0,1.0,25751,low,average
+43,Lenovo,IdeaPad Slim 3,Intel Celeron Dual Core N4020,8,256.0,4.2,17.0,DDR4,16.0,2.0,25890,low,good
+44,Lenovo,IdeaPad Slim 3,Intel Celeron Dual Core N4020,8,256.0,3.9,60.0,DDR4,16.0,2.0,25899,low,average
+45,HP,14a Intel Celeron,Intel Celeron Dual Core N4500,4,64.0,3.9,60.0,DDR4,14.0,1.0,25900,low,average
+46,Lenovo,Lenovo Ideapad Slim,Intel Celeron Dual Core N4020,8,256.0,4.1,60.0,DDR4,14.0,2.0,25930,low,good
+47,ASUS,VivoBook 14 (2021,Intel Celeron Dual Core N4020,4,256.0,4.1,60.0,DDR4,14.0,1.0,25990,low,good
+48,Acer,AMD Ryzen 3,Ryzen 3 Dual Core 3250U,8,256.0,4.2,52.0,DDR4,14.0,1.0,25990,low,good
+49,Infinix,INBook X2 Plus Intel,Core i3 11th Gen 1115G4,8,256.0,4.3,106.0,DDR4X,16.0,1.0,25990,low,good
+50,Infinix,INBook X2 Plus Intel,Core i3 11th Gen 1115G4,8,256.0,4.3,106.0,DDR4X,16.0,1.0,25990,low,good
+51,HP,245G9 AMD Ryzen,Core AMD Ryzen 3 3250U,8,512.0,4.2,20.0,DDR4,14.0,1.0,25999,low,good
+52,HP,255 G9 AMD Ryzen,3 Dual Core R3 3250,8,512.0,4.1,24.0,DDR4,16.0,1.0,25999,low,good
+53,Lenovo,IdeaPad 1 15IGL7,Dual Core 4th Gen N4020,8,256.0,4.4,1.0,DDR4,16.0,1.0,26490,low,good
+54,HP,245G9 841W7PA,AMD Ryzen 3 Dual Core,8,512.0,4.1,11.0,DDR4,14.0,1.0,26600,low,good
+55,Ultimus,Elite Intel Core,Intel Core i5 10th Gen,8,512.0,3.9,75.0,DDR4,14.0,1.0,26990,low,average
+56,Ultimus,Elite Intel Core,Core i5 10th Gen 1035G4,8,512.0,3.9,75.0,DDR4,14.0,1.0,26990,low,average
+57,ASUS,Vivobook Intel Celeron,Intel Celeron Dual Core N4020,8,512.0,3.9,60.0,DDR4,16.0,1.0,27890,low,average
+58,ASUS,Vivobook Go 14,Intel Celeron Dual Core N4500,8,256.0,3.9,10.0,DDR4,14.0,1.0,27990,low,average
+59,Lenovo,AMD Ryzen 3,AMD Ryzen 3 Octa Core,8,512.0,4.5,2.0,DDR4,14.0,1.0,27990,low,good
+60,ZEBRONICS,Pro Series Z,Core i3 12th Gen 1215U,8,512.0,4.0,15.0,DDR4,16.0,1.0,27990,low,average
+61,Lenovo,V15 AMD Ryzen,Ryzen 3 Quad Core 7320U,8,512.0,4.3,47.0,DDR5,16.0,1.0,27990,low,good
+62,WINGS,Nuvobook V1 Aluminium Alloy,Core i5 11th Gen 1155G7,8,512.0,4.1,60.0,DDR4,16.0,1.0,27990,low,good
+63,Infinix,X1 Slim Series,Core i3 10th Gen 1005G1,8,256.0,4.3,60.0,DDR4X,14.0,1.0,28490,low,good
+64,Infinix,INBook Y1 Plus Intel,Core i3 10th Gen 1005G1,8,512.0,4.2,60.0,DDR4X,16.0,1.0,28990,low,good
+65,HP,Intel Celeron Dual,Intel Celeron Dual Core N4500,8,512.0,3.9,64.0,DDR4,16.0,1.0,28990,low,average
+66,ASUS,Vivobook 15 Intel Pentium,Intel Pentium Dual Core 7505,8,512.0,4.2,13.0,DDR4,16.0,1.0,28990,low,good
+67,ASUS,VivoBook 15 Intel Core,Core i3 10th Gen 1005G1,4,1000.0,3.9,60.0,DDR4,16.0,1.0,28990,low,average
+68,HP,Laptop 15s Intel,Dual Core Intel Celeron N4500,8,512.0,3.9,10.0,DDR4,16.0,1.0,29490,low,average
+69,Lenovo,V15 AMD Ryzen,Ryzen 3 Quad Core 7320U,8,512.0,4.1,8.0,DDR5,16.0,1.0,29990,low,good
+70,ASUS,Vivobook 15 Intel Core,Core i3 11th Gen 1115G4,8,256.0,4.3,60.0,DDR4,16.0,1.0,29990,low,good
+71,WINGS,Nuvobook V1 Aluminium Alloy,Core i5 11th Gen 1155G7,8,512.0,4.1,60.0,DDR4,16.0,1.0,29990,low,good
+72,Acer,One Intel Core,Core i3 11th Gen 1115G4,8,512.0,4.3,60.0,DDR4,14.0,1.0,29990,low,good
+73,Infinix,X3 Slim Intel,Core i3 12th Gen 1215U,8,512.0,4.1,60.0,DDR4X,14.0,1.0,29990,low,good
+74,Acer,Extensa 15 AMD Ryzen,Ryzen 3 Quad Core 7320U,8,512.0,4.2,24.0,DDR5,16.0,1.0,29990,low,good
+75,Infinix,X2 Slim Intel,Core i3 11th Gen 1115G4,8,512.0,4.2,60.0,DDR4X,14.0,1.0,30511,low,good
+76,Lenovo,V14 G3 (82TSA01KIH,Core i3 12th Gen 1213U,8,512.0,4.1,2.0,DDR4,14.0,1.0,31000,low,good
+77,Acer,Extensa (2023,Core i3 12th Gen N305,8,256.0,4.2,107.0,DDR5,16.0,1.0,31490,low,good
+78,HP,Intel Pentium Quad,Intel Pentium Quad Core N6000,8,512.0,4.2,13.0,DDR4,16.0,1.0,31490,low,good
+79,ASUS,Intel Core i3,Core i3 11th Gen 1115G4,8,512.0,4.3,60.0,DDR4,14.0,1.0,31490,low,good
+80,ASUS,Intel Core i3,Intel Core i3 10th Gen,4,1000.0,3.9,9.0,DDR4,16.0,1.0,31500,low,average
+81,Acer,Aspire 3 AMD,Ryzen 5 Quad Core 3500U,8,512.0,4.4,41.0,DDR4,16.0,1.0,31690,low,good
+82,Acer,AMD Ryzen 5,AMD Ryzen 5 Quad Core,8,512.0,4.2,13.0,DDR5,16.0,1.0,31690,low,good
+83,Acer,Aspire 3 15,Ryzen 5 Quad Core 7520U,8,512.0,4.2,60.0,DDR5,16.0,1.0,31690,low,good
+84,Acer,Intel Core i3,Intel Core i3 11th Gen,8,512.0,4.3,21.0,DDR4,16.0,1.0,31890,low,good
+85,HP,240 G8 Intel Core,Intel Core i3 11th Gen,8,512.0,4.2,13.0,DDR4,14.0,1.0,31890,low,good
+86,Lenovo,IdeaPad Slim 3,Core i3 12th Gen 1215U,8,256.0,4.2,58.0,DDR4,16.0,1.0,31990,low,good
+87,HP,AMD Ryzen 5,AMD Ryzen 5 Quad Core,8,512.0,4.2,60.0,DDR4,14.0,1.0,31990,low,good
+88,HP,2023 AMD Ryzen,Ryzen 3 Dual Core 3250U,8,512.0,4.2,60.0,DDR4,16.0,1.0,31990,low,good
+89,ASUS,Vivobook 15 Intel Core,Core i3 11th Gen 1115G4,8,512.0,4.4,60.0,DDR4,16.0,1.0,31990,low,good
+90,ASUS,X1500EA-EJ3379WS,Intel Core i3 11th Gen,8,512.0,4.1,1.0,DDR4,16.0,1.0,31990,low,good
+91,ASUS,Vivobook 15 Intel Core,Core i3 11th Gen 1115G4,8,256.0,4.4,22.0,DDR4,16.0,1.0,31992,low,good
+92,HP,G Series Intel,Core i3 10th Gen 1005G1,4,512.0,4.3,14.0,DDR4,16.0,1.0,31999,low,good
+93,Lenovo,V14 Intel Core,Intel Core i3 11th Gen,8,256.0,4.2,13.0,DDR4,14.0,1.0,32000,low,good
+94,HP,AMD Ryzen 3,Ryzen 3 Quad Core 5300U,8,512.0,4.2,60.0,DDR4,16.0,1.0,32191,low,good
+95,DELL,Latitude Intel Core,Core i3 11th Gen 1115G4,8,512.0,4.2,13.0,DDR4,14.0,1.0,32500,low,good
+96,Lenovo,V15 Intel Core,Core i3 12th Gen 1215U,8,512.0,4.2,16.0,DDR4,16.0,1.0,32500,low,good
+97,Acer,Extensa (2023,Core i3 12th Gen N305,8,512.0,4.2,107.0,DDR5,16.0,1.0,32750,low,good
+98,HP,250 G8 Intel Core,Intel Core i3 11th Gen,8,512.0,3.9,26.0,DDR4,16.0,1.0,32790,low,average
+99,Infinix,X2 Slim Series,Core i5 11th Gen 1155G7,8,512.0,4.1,43.0,DDR4X,14.0,1.0,32990,low,good
+100,Infinix,Inbook Y2 Plus Intel,Core i5 11th Gen 1155G7,16,512.0,4.1,43.0,DDR4X,16.0,1.0,32990,low,good
+101,Acer,Aspire 3 Intel,Core i3 12th Gen 1215U,8,512.0,4.4,19.0,DDR4,16.0,1.0,32990,low,good
+102,Lenovo,IdeaPad 3 Intel,Core i3 12th Gen 1215U,8,256.0,4.2,13.0,DDR4,16.0,1.0,32990,low,good
+103,MSI,Modern 14 Intel Core,Core i3 12th Gen 1215U,8,512.0,4.3,47.0,DDR4,14.0,1.0,32990,low,good
+104,Lenovo,V15 Intel Core,Core i3 11th Gen 1115G4,4,256.0,4.3,13.0,DDR4,15.0,1.0,32990,low,good
+105,Infinix,X2 Slim Intel,Core i5 11th Gen 1155G7,16,512.0,4.1,43.0,DDR4X,14.0,1.0,32990,low,good
+106,Acer,Extensa (2023,Ryzen 5 Quad Core 7520UThin and Light LaptopLPDDR5 RAM,8,512.0,4.1,60.0,DDR5,16.0,1.0,32990,low,good
+107,Infinix,Intel Core i5,Core i5 11th Gen 1155G7,16,512.0,4.1,43.0,DDR4X,14.0,1.0,32990,low,good
+108,Lenovo,IdeaPad Slim 3,Core i3 12th Gen 1215U,8,256.0,4.2,78.0,DDR4,16.0,2.0,33000,low,good
+109,Lenovo,AMD Ryzen 3,Ryzen 3 Hexa Core 5300U,8,512.0,4.3,4.0,DDR4,16.0,1.0,33190,low,good
+110,HP,Intel Core i3,Core i3 11th Gen 1125G4,8,512.0,4.3,60.0,DDR4,16.0,1.0,33240,low,good
+111,Acer,Aspire 3 14,Core i3 13th Gen N305,8,512.0,3.9,60.0,DDR5,14.0,1.0,33400,low,average
+112,DELL,Intel Core i3,Intel Core i3 11th Gen,8,256.0,4.3,2.0,DDR4,14.0,1.0,33490,low,good
+113,Acer,Aspire 3 Intel,Core i3 12th Gen 1215U,8,512.0,3.9,60.0,DDR5,16.0,1.0,33490,low,average
+114,DELL,Intel Core i3,Core i3 11th Gen 1115G4,8,512.0,3.9,3.0,DDR4,16.0,1.0,33499,low,average
+115,Lenovo,ThinkBook 15 AMD Ryzen,Ryzen 3 Hexa Core 7330U,8,512.0,4.4,60.0,DDR4,16.0,1.0,33500,low,good
+116,Lenovo,Intel Core i3,Intel Core i3 12th Gen,8,512.0,3.9,60.0,DDR4,16.0,1.0,33590,low,average
+117,Lenovo,V15 AMD Ryzen,Ryzen 5 Hexa Core 5500U,8,512.0,4.2,60.0,DDR4,16.0,1.0,33941,low,good
+118,ASUS,Vivobook Go 14,Ryzen 3 Quad Core 7320U,8,512.0,4.4,2.0,DDR5,14.0,1.0,33990,low,good
+119,ZEBRONICS,Pro Series Z,Core i5 12th Gen 1235U,8,512.0,3.9,41.0,DDR4,16.0,1.0,33990,low,average
+120,Lenovo,IdeaPad Slim 1,Ryzen 3 Quad Core 7320U,8,512.0,4.1,11.0,DDR5,16.0,1.0,33990,low,good
+121,MSI,Modern 14 AMD Ryzen,Ryzen 5 Hexa Core 7530U,8,512.0,4.4,69.0,DDR4,14.0,1.0,33990,low,good
+122,HP,AMD Ryzen 3,Ryzen 3 Quad Core 7320U,8,512.0,4.2,7.0,DDR5,14.0,2.0,33990,low,good
+123,Acer,Aspire AMD Ryzen,Ryzen 5 Quad Core 3500U,8,512.0,4.3,43.0,DDR4,16.0,1.0,34200,low,good
+124,ASUS,Vivobook 14 AMD Ryzen,Core AMD Ryzen 3 3250U,8,256.0,4.3,6.0,DDR4,14.0,1.0,34300,low,good
+125,HP,fq2673TU Intel Core,Core i3 11th Gen 1115G4,8,512.0,3.9,1.0,DDR4,16.0,1.0,34900,low,average
+126,Lenovo,V15 AMD Ryzen,Ryzen 5 Hexa Core 5500U,8,512.0,3.9,7.0,DDR4,16.0,1.0,34980,low,average
+127,HP,250 G9 Intel Core,Core i3 12th Gen 1215U,8,512.0,4.3,2.0,DDR4,16.0,1.0,34989,low,good
+128,DELL,Intel Core i3,Core i3 12th Gen 1215U,8,512.0,3.9,8.0,DDR4,16.0,1.0,34990,low,average
+129,Infinix,Y4 Max Series,Core i3 13th Gen 1315U,8,512.0,4.4,10.0,DDR4X,16.0,1.0,34990,low,good
+130,Lenovo,AMD Ryzen 3,Ryzen 3 Quad Core 7330U,8,512.0,4.2,13.0,DDR4,16.0,1.0,34990,low,good
+131,Infinix,Y4 Max Series,Core i3 13th Gen 1315U,8,512.0,4.4,11.0,DDR4X,16.0,1.0,34990,low,good
+132,DELL,Intel Core i3,Core i3 12th Gen 1215U,8,512.0,4.2,60.0,DDR4,16.0,1.0,34990,low,good
+133,ZEBRONICS,Pro Series Z,Core i5 12th Gen 1235U,16,512.0,3.9,41.0,DDR4,16.0,1.0,34990,low,average
+134,DELL,Intel Core i3,Core i3 11th Gen 1115G4,8,256.0,4.1,14.0,DDR4,14.0,1.0,34990,low,good
+135,HP,Laptop AMD Ryzen,Ryzen 3 Quad Core 5300U,8,512.0,4.6,10.0,DDR4,16.0,1.0,35055,low,excellent
+136,Lenovo,IdeaPad Slim 3,Core i3 11th Gen 1115G4,8,512.0,4.2,60.0,DDR4,16.0,2.0,35100,low,good
+137,Lenovo,IdeaPad 3 Intel,Core i3 11th Gen 1115G4,8,512.0,4.4,60.0,DDR4,16.0,1.0,35100,low,good
+138,Lenovo,IdeaPad Slim 3,Core i3 12th Gen 1215U,8,512.0,4.2,78.0,DDR4,16.0,2.0,35250,low,good
+139,HP,Laptop AMD Ryzen,Ryzen 3 Quad Core 5300U,8,512.0,4.3,60.0,DDR4,16.0,1.0,35490,low,good
+140,DELL,Intel Core i3,Core i3 12th Gen 1215U,8,512.0,4.3,92.0,DDR4,16.0,1.0,35490,low,good
+141,HP,250 G9 Intel Core,Gen Intel Core i3 1215U,8,512.0,4.2,4.0,DDR4,16.0,1.0,35600,low,good
+142,Lenovo,IdeaPad 3 Intel,Core i3 11th Gen 1115G4,8,512.0,4.4,40.0,DDR4,16.0,2.0,35700,low,good
+143,ASUS,Vivobook 15 Intel Core,Core i3 12th Gen 1215U,8,512.0,4.3,55.0,DDR4,16.0,1.0,35881,low,good
+144,ASUS,Vivobook Intel Core,Core i3 12th Gen 1215U,8,512.0,4.3,55.0,DDR4,16.0,2.0,35980,low,good
+145,DELL,Inspiron Intel Core,Core i3 12th Gen 1215U,8,512.0,4.2,5.0,DDR4,16.0,2.0,35990,low,good
+146,ASUS,Vivobook Go 15,Ryzen 3 Quad Core 7320U,8,512.0,4.2,60.0,DDR5,16.0,1.0,35990,low,good
+147,Lenovo,IdeaPad Slim 3,Core i3 12th Gen 1215U,8,512.0,4.3,47.0,DDR4,16.0,1.0,35990,low,good
+148,HP,Intel Core i5,Intel Core i5 11th Gen,8,512.0,4.7,60.0,DDR4,14.0,1.0,35990,low,excellent
+149,Lenovo,IdeaPad 1 AMD,Ryzen 5 Quad Core 3500U,8,512.0,4.3,82.0,DDR4,16.0,2.0,35990,low,good
+150,HP,Intel Core i3,Intel Core i3 11th Gen,8,512.0,4.3,4.0,DDR4,16.0,1.0,36200,low,good
+151,DELL,Intel Core i3,Core i3 12th Gen 1215U,8,512.0,4.3,92.0,DDR4,16.0,1.0,36390,low,good
+152,ASUS,Vivobook Ultra 14,Core i3 11th Gen 1115G4,8,512.0,4.4,65.0,DDR4,14.0,1.0,36500,low,good
+153,HP,Intel Core i3,Intel Core i3 11th Gen,8,512.0,4.3,4.0,DDR4,16.0,1.0,36790,low,good
+154,ASUS,Vivobook Go 14,Core i3 12th Gen N305,8,512.0,4.2,19.0,DDR4,14.0,1.0,36990,low,good
+155,MSI,Modern 14 Intel Core,Core i5 11th Gen 1155G7,8,512.0,4.2,60.0,DDR4,14.0,1.0,36990,low,good
+156,Infinix,Y4 Max Series,Core i3 13th Gen 1315U,16,512.0,4.4,11.0,DDR4X,16.0,1.0,36990,low,good
+157,Infinix,X3 Slim Intel,Core i5 12th Gen 1235U,16,512.0,4.2,60.0,DDR4X,14.0,1.0,36990,low,good
+158,MSI,Modern 15 AMD Ryzen,Ryzen 5 Hexa Core 7530U,8,512.0,4.4,69.0,DDR4,16.0,1.0,36990,low,good
+159,ASUS,Vivobook Go 14,Core i3 12th Gen N305,8,512.0,4.4,7.0,DDR4,14.0,1.0,36990,low,good
+160,DELL,Vostro Intel Core,Core i3 11th Gen 1115G4,8,1000.0,4.3,66.0,DDR4,16.0,1.0,36990,low,good
+161,DELL,Inspiron Intel Core,Core i3 12th Gen 1215U,8,512.0,3.9,2.0,DDR4,16.0,2.0,36990,low,average
+162,Infinix,Y4 Max Series,Core i3 13th Gen 1315U,16,512.0,4.4,10.0,DDR4X,16.0,1.0,36990,low,good
+163,HP,14s Intel Core,Core i3 11th Gen 1115G4,8,256.0,4.3,60.0,DDR4,14.0,1.0,37250,low,good
+164,HP,Intel Core i3,Core i3 12th Gen 1215U,8,512.0,4.3,60.0,DDR4,16.0,2.0,37490,low,good
+165,HP,15s Intel Core,Core i3 12th Gen 1215U,8,512.0,4.3,60.0,DDR4,16.0,2.0,37699,low,good
+166,Lenovo,IdeaPad Slim 3,Core i3 12th Gen 1215U,8,512.0,4.2,58.0,DDR4,16.0,2.0,37900,low,good
+167,HP,15s Intel Core,Core i3 11th Gen 1115G4,8,1000.0,4.1,27.0,DDR4,16.0,1.0,37980,low,good
+168,DELL,Intel Core i3,Core i3 13th Gen 1305U,8,512.0,4.700000000000001,60.0,DDR4,14.0,1.0,37990,low,excellent
+169,Acer,Aspire 5 Intel,Core i5 11th Gen 1135G7,8,1000.0,3.9,35.0,DDR4,14.0,1.0,37990,low,average
+170,HP,AMD Ryzen 5,Ryzen 5 Hexa Core 5500U,8,512.0,4.3,60.0,DDR4,16.0,1.0,37990,low,good
+171,DELL,Intel Core i5,Intel Core i5 11th Gen,8,512.0,3.9,4.0,DDR4,14.0,1.0,37990,low,average
+172,HP,Intel Core i3,Intel Core i3 11th Gen,8,512.0,4.2,13.0,DDR4,16.0,1.0,38000,low,good
+173,DELL,AMD Ryzen 5,Ryzen 5 Hexa Core 5500U,8,512.0,4.0,1.0,DDR4,16.0,1.0,38300,low,average
+174,ASUS,Vivobook 15 Intel Core,Core i3 11th Gen 1115G4,8,512.0,4.5,2.0,DDR4,16.0,1.0,38500,low,good
+175,HP,AMD Ryzen 5,Ryzen 5 Hexa Core 5500U,8,512.0,4.4,54.0,DDR4,16.0,1.0,38990,low,good
+176,ASUS,Vivobook 14 Intel Core,Core i3 11th Gen 1115G4,16,512.0,4.2,9.0,DDR4,14.0,2.0,38990,low,good
+177,Lenovo,ThinkBook 15 G5 AMD,Ryzen 5 Hexa Core 7530U,8,512.0,4.3,60.0,DDR4,16.0,1.0,38990,low,good
+178,ASUS,VivoBook K15 OLED,Core i3 11th Gen 1115G4,8,256.0,4.4,60.0,DDR4,16.0,2.0,39400,low,good
+179,ASUS,Vivobook 15X (2023,Core i3 13th Gen 1315U,8,512.0,4.3,10.0,DDR4,16.0,1.0,39490,low,good
+180,HP,Laptop Intel Core,Core i3 11th Gen 1115G4,8,512.0,4.2,93.0,DDR4,16.0,1.0,39500,low,good
+181,Infinix,Intel Core i7,Core i7 10th Gen 1065G7,8,512.0,4.2,13.0,DDR4X,14.0,1.0,39990,low,good
+182,ASUS,Vivobook AMD Ryzen,Ryzen 5 Quad Core 7520U,8,512.0,4.2,13.0,DDR5,14.0,1.0,39990,low,good
+183,DELL,Vostro 3420 Business,Intel Core i5 11th Gen,8,512.0,3.9,3.0,DDR4,14.0,1.0,39990,low,average
+184,Lenovo,IdeaPad Slim 1,Ryzen 5 Quad Core 7520U,8,512.0,4.2,4.0,DDR5,16.0,2.0,39990,low,good
+185,ASUS,Vivobook 15 (2023,Core i3 13th Gen 1315U,8,512.0,4.2,13.0,DDR4,16.0,1.0,39990,low,good
+186,DELL,Intel Core i3,Core i3 13th Gen 1305U,8,512.0,4.2,13.0,DDR4,16.0,1.0,39990,low,good
+187,HP,AMD Ryzen 5,AMD Ryzen 5 Quad Core,8,512.0,4.2,13.0,DDR4,16.0,1.0,39990,low,good
+188,Lenovo,Intel Core i3,Core i3 13th Gen 1315U,8,512.0,4.2,13.0,DDR5,16.0,1.0,39990,low,good
+189,ASUS,AMD Ryzen 5,AMD Ryzen 5 Hexa Core,8,512.0,4.6,2.0,DDR4,16.0,1.0,39999,low,excellent
+190,MSI,Modern 14 Intel Core,Core i5 12th Gen 1235U,16,512.0,4.3,84.0,DDR4,14.0,1.0,40990,low,good
+191,ZEBRONICS,Thin and Light,Core i7 12th Gen 1255U,16,512.0,4.0,7.0,DDR4,16.0,1.0,40990,low,average
+192,Acer,Intel Core i5,Intel Core i5 11th Gen,8,512.0,4.4,7.0,DDR4,16.0,1.0,41190,low,good
+193,Acer,Aspire Lite AMD,Ryzen 5 Hexa Core 5500U,16,1000.0,3.9,4.0,DDR4,16.0,1.0,41299,low,average
+194,Lenovo,AMD Ryzen 5,Ryzen 5 Hexa Core 7530U,16,512.0,4.2,60.0,DDR4,16.0,1.0,41990,low,good
+195,ASUS,VivoBook 15 (2021,Core i5 10th Gen 1035G1,8,512.0,4.4,59.0,DDR4,16.0,2.0,41990,low,good
+196,Infinix,X1 Slim Series,Core i5 10th Gen 1035G1,8,512.0,4.2,60.0,DDR4X,14.0,1.0,41990,low,good
+197,Acer,Aspire 3 Spin,Core i3 13th Gen N305,8,512.0,4.6,1.0,DDR5,14.0,1.0,41990,low,excellent
+198,ASUS,Vivobook 15 Intel Core,Core i3 12th Gen 1215U,16,512.0,4.3,60.0,DDR4,16.0,1.0,41990,low,good
+199,ASUS,Intel Core i3,Intel Core i3 13th Gen,8,512.0,3.9,60.0,DDR4,16.0,1.0,42868,low,average
+200,Infinix,X2 Slim Series,Core i5 11th Gen 1155G7,16,1000.0,4.2,40.0,DDR4X,14.0,1.0,42890,low,good
+201,DELL,Inspiron 3511 Intel,Intel Core i5 11th Gen,8,512.0,4.2,5.0,DDR4,16.0,1.0,42990,low,good
+202,ASUS,Vivobook 14 (2023,Core i3 13th Gen 1315U,8,512.0,4.1,15.0,DDR4,14.0,1.0,42990,low,good
+203,ASUS,Vivobook 16 (2023,Core i3 13th Gen 1315U,8,512.0,4.4,21.0,DDR4,16.0,1.0,42990,low,good
+204,HP,15s Intel Core,Core i3 11th Gen 1115G4,8,512.0,4.3,60.0,DDR4,16.0,1.0,42999,low,good
+205,Infinix,INBook X1 Pro Intel,Core i7 10th Gen 1065G7,16,512.0,4.2,72.0,DDR4X,14.0,1.0,43490,low,good
+206,DELL,Inspiron Intel Core,Core i3 11th Gen 1115G4,8,1000.0,4.2,60.0,DDR4,16.0,1.0,43500,low,good
+207,Lenovo,IdeaPad Slim 3,Core i5 11th Gen 1155G7,8,512.0,4.3,60.0,DDR4,16.0,1.0,43500,low,good
+208,ZEBRONICS,Pro Series Z,Core i7 12th Gen 1255U,16,1000.0,4.0,7.0,DDR4,16.0,1.0,43990,low,average
+209,ZEBRONICS,Thin and Light,Core i7 12th Gen 1255U,16,1000.0,4.0,7.0,DDR4,16.0,1.0,43990,low,average
+210,HP,14s (2023,Core i3 11th Gen 1115G4,8,512.0,4.4,17.0,DDR4,14.0,1.0,43990,low,good
+211,Infinix,X3 Slim Intel,Core i7 12th Gen 1255U,16,512.0,4.3,13.0,DDR4X,14.0,1.0,43990,low,good
+212,ASUS,AMD Ryzen 5,AMD Ryzen 5 Quad Core,16,512.0,4.2,13.0,DDR4,14.0,1.0,43990,low,good
+213,HP,15s AMD Ryzen,Ryzen 5 Hexa Core 5500U,16,512.0,4.4,60.0,DDR4,16.0,1.0,43990,low,good
+214,HP,14s AMD Ryzen,AMD Ryzen 3 Quad Core,8,512.0,4.6,60.0,DDR4,14.0,1.0,43999,low,excellent
+215,Lenovo,V SERIES Intel,Core i5 12th Gen 1235U,8,512.0,4.5,60.0,DDR4,16.0,1.0,44000,low,good
+216,HP,AMD Ryzen 5,Ryzen 5 Quad Core 7520U,8,512.0,4.2,13.0,DDR5,14.0,1.0,44990,low,good
+217,HP,15s (2023,Ryzen 5 Quad Core 7520U,8,512.0,4.4,5.0,DDR5,16.0,1.0,44990,low,good
+218,HP,15s (2023,Core i3 13th Gen 1315U,8,512.0,4.2,23.0,DDR4,16.0,1.0,44990,low,good
+219,DELL,Vostro Intel Core,Core i5 11th Gen 1135G7,8,512.0,4.1,27.0,DDR4,14.0,1.0,44999,low,good
+220,DELL,Intel Core i3,Intel Core i3 13th Gen,8,512.0,4.700000000000001,2.0,DDR4,16.0,1.0,45000,low,excellent
+221,ASUS,Vivobook 15 Intel Core,Core i5 12th Gen 1235U,8,512.0,4.1,2.0,DDR4,16.0,1.0,45590,low,good
+222,ASUS,X1502ZA Intel Core,Core i5 12th Gen 1235U,8,512.0,3.9,3.0,DDR4,16.0,1.0,45900,low,average
+223,Lenovo,IdeaPad Slim 3,Ryzen 5 Quad Core 7520U,16,512.0,4.2,4.0,DDR5,16.0,2.0,45990,low,good
+224,Lenovo,V14 Intel Core,Intel Core i5 11th Gen,8,512.0,4.2,13.0,DDR4,14.0,1.0,45990,low,good
+225,Lenovo,ThinkBook 15 AMD Ryzen,Ryzen 7 Octa Core 7730U,8,512.0,3.9,3.0,DDR4,16.0,1.0,46215,low,average
+226,DELL,Intel Core i5,Core i5 12th Gen 1235U,8,512.0,4.2,9.0,DDR4,16.0,1.0,46290,low,good
+227,Acer,Intel Core i5,Intel Core i5 11th Gen,16,512.0,4.3,2.0,DDR4,16.0,1.0,46499,low,good
+228,DELL,Intel Core i5,Core i5 11th Gen 1135G7,8,512.0,3.9,60.0,DDR4,16.0,1.0,46700,low,average
+229,HP,Intel Intel Core,Core i5 11th Gen 1155G7,8,512.0,4.3,60.0,DDR4,16.0,1.0,46880,low,good
+230,HP,15s (2023,Ryzen 5 Quad Core 7520U,16,512.0,4.3,1.0,DDR5,16.0,1.0,46990,low,good
+231,HP,G8 Intel Core,Core i5 11th Gen 11500,16,512.0,4.4,60.0,DDR4,16.0,1.0,46990,low,good
+232,ASUS,Vivobook Go 15,Ryzen 3 Quad Core 7320U,8,512.0,4.4,60.0,DDR5,16.0,1.0,46990,low,good
+233,DELL,Inspiron Intel Core,Core i5 11th Gen 1135G7,8,512.0,4.1,21.0,DDR4,16.0,1.0,47890,low,good
+234,HP,AMD Ryzen 5,5 Quad Core R5 5500,8,512.0,3.9,5.0,DDR4,14.0,1.0,47990,low,average
+235,HP,Laptop Intel Core,Core i3 13th Gen 1315U,8,512.0,4.2,13.0,DDR4,14.0,2.0,47990,low,good
+236,Lenovo,IdeaPad Gaming 3,Ryzen 5 Quad Core 5500H,8,512.0,4.2,22.0,DDR4,16.0,1.0,47990,low,good
+237,DELL,Inspiron Intel Core,i5 12th Gen Core i5,8,512.0,4.4,2.0,DDR4,16.0,2.0,48490,low,good
+238,Lenovo,THINKBOOK AMD Ryzen,Ryzen 7 Octa Core 7730U,16,512.0,4.3,3.0,DDR4,16.0,1.0,48490,low,good
+239,ASUS,VivoBook 15 (2022,Core i5 11th Gen 1135G7,8,1000.0,4.3,60.0,DDR4,16.0,1.0,48500,low,good
+240,Lenovo,ThinkPad E14 Intel,Core i3 12th Gen 1215U,8,512.0,3.9,2.0,DDR4,14.0,1.0,48500,low,average
+241,ASUS,TUF Gaming F15,Core i5 10th Gen 10300H,8,512.0,4.5,60.0,DDR4,16.0,1.0,48600,low,good
+242,DELL,Inspiron 15 3520,i5 12th Gen Core i5,8,512.0,3.9,3.0,DDR4,16.0,2.0,48889,low,average
+243,ASUS,TUF Gaming F15,Core i5 11th Gen 11260H,8,512.0,4.3,60.0,DDR4,16.0,1.0,48990,low,good
+244,Lenovo,ThinkPad E14 AMD,Ryzen 5 Hexa Core 7530U,8,512.0,3.9,60.0,DDR4,14.0,1.0,48990,low,average
+245,ASUS,Intel Core i5,Intel Core i5 10th Gen,8,1000.0,4.5,60.0,DDR4,16.0,1.0,48990,low,good
+246,HP,15s (2023,Ryzen 5 Quad Core 7520U,16,512.0,4.4,5.0,DDR5,16.0,1.0,48990,low,good
+247,HP,AMD Ryzen 5,AMD Ryzen 5 Hexa Core,8,512.0,3.9,1.0,DDR4,16.0,1.0,49490,low,average
+248,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,8,512.0,4.2,97.0,DDR4,16.0,1.0,49490,low,good
+249,ASUS,TUF Gaming F15,Core i5 11th Gen 11400H,8,512.0,4.4,19.0,DDR4,16.0,1.0,49990,low,good
+250,HP,Laptop Intel Core,Core i5 12th Gen 1235U,8,512.0,4.700000000000001,60.0,DDR4,16.0,1.0,49990,low,excellent
+251,MSI,Bravo 15 AMD Ryzen,Ryzen 5 Hexa Core 7535HS,8,512.0,4.1,17.0,DDR5,16.0,1.0,49990,low,good
+252,Lenovo,IdeaPad Gaming 3,Core i5 11th Gen 11300H,8,512.0,4.2,15.0,DDR4,16.0,1.0,49990,low,good
+253,HP,15s Intel Core,Intel Core i5 12th Gen,8,512.0,4.1,3.0,DDR4,16.0,1.0,49990,low,good
+254,HP,2023 Intel Core,Core i5 12th Gen 1235U,8,512.0,4.2,71.0,DDR4,16.0,1.0,49990,low,good
+255,Lenovo,IdeaPad 3 Intel,Core i5 11th Gen 1135G7,8,512.0,4.3,29.0,DDR4,16.0,1.0,49990,low,good
+256,HP,Intel Core i5,Core i5 12th Gen 1235U,8,512.0,4.4,4.0,DDR4,16.0,1.0,49990,low,good
+257,MSI,Modern 14 Intel Core,Core i5 13th Gen 1335U,8,512.0,4.2,6.0,DDR4,14.0,1.0,49990,low,good
+258,Acer,Swift Go 14,Ryzen 5 Hexa Core 7530U,8,512.0,4.2,1.0,DDR4X,14.0,1.0,49990,low,good
+259,Acer,TravelMate P2 Intel Core,Core i7 11th Gen 1165G7,16,512.0,3.9,33.0,DDR4,14.0,1.0,49990,low,average
+260,Acer,Intel Core i5,Intel Core i5 9th Gen,8,1000.0,4.2,13.0,DDR4,16.0,1.0,49999,low,good
+261,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,8,512.0,4.4,14.0,DDR4,16.0,1.0,50499,medium,good
+262,ASUS,Vivobook 15 Intel Core,Core i5 12th Gen 1235U,8,512.0,4.1,85.0,DDR4,16.0,1.0,50990,medium,good
+263,Lenovo,IdeaPad Gaming 3,Core i5 11th Gen 11320H,8,512.0,4.1,47.0,DDR4,16.0,1.0,50990,medium,good
+264,ASUS,Vivobook Go 15,Ryzen 5 Quad Core 7520U,16,512.0,4.2,60.0,DDR5,16.0,1.0,50990,medium,good
+265,ASUS,Vivobook Go 15,Ryzen 5 Quad Core 7520U,8,512.0,4.4,60.0,DDR5,16.0,1.0,50990,medium,good
+266,Lenovo,IdeaPad Slim 3,Ryzen 7 Octa Core 5700U,16,512.0,4.2,41.0,DDR4,16.0,1.0,50990,medium,good
+267,HP,Pavilion Gaming AMD,Ryzen 5 Quad Core 3550H,8,1000.0,4.2,55.0,DDR4,16.0,1.0,51000,medium,good
+268,HP,2023 Intel Core,Core i5 11th Gen 1155G7,16,512.0,4.3,60.0,DDR4,16.0,1.0,51490,medium,good
+269,ASUS,ZenBook 13 Intel Core,Core i5 8th Gen 8250U,8,256.0,4.6,92.0,DDR3,13.0,1.0,51840,medium,excellent
+270,Lenovo,IdeaPad Slim 3,Core i5 12th Gen 1235U,16,512.0,4.2,60.0,DDR4,16.0,2.0,51990,medium,good
+271,ASUS,TUF Gaming F17,Core i5 11th Gen 11260H,8,512.0,4.2,13.0,DDR4,17.0,1.0,51990,medium,good
+272,DELL,Inspiron AMD Ryzen,Ryzen 5 Hexa Core 5625U,8,512.0,4.2,13.0,DDR4,14.0,1.0,51990,medium,good
+273,HP,Pavilion AMD Ryzen,Ryzen 5 Hexa Core 5625U,8,512.0,4.4,60.0,DDR4,16.0,1.0,51990,medium,good
+274,DELL,Inspiron Intel Core,Core i5 11th Gen 1135G7,8,1000.0,4.2,11.0,DDR4,16.0,1.0,51999,medium,good
+275,ASUS,ASUS TUF Gaming,5 Hexa Core 10th Gen,8,512.0,4.6,60.0,DDR4,16.0,1.0,52000,medium,excellent
+276,DELL,Intel Core i5,Core i5 12th Gen 1235U,16,512.0,3.9,2.0,DDR4,16.0,1.0,52200,medium,average
+277,DELL,Inspiron 15 3520,i5 12th Gen Core i5,16,512.0,4.2,15.0,DDR4,16.0,1.0,52200,medium,good
+278,Acer,Aspire Lite Intel,Core i7 11th Gen 1165G7,16,512.0,3.9,60.0,DDR4,16.0,1.0,52499,medium,average
+279,ASUS,TUF Gaming F15,Core i5 10th Gen 10300H,8,512.0,4.5,60.0,DDR4,16.0,1.0,52500,medium,good
+280,ASUS,Intel Core i5,Intel Core i5 12th Gen,16,512.0,4.2,1.0,DDR4,16.0,1.0,52782,medium,good
+281,Lenovo,ThinkPad E14 AMD,Ryzen 5 Hexa Core 7530U,16,512.0,4.7,1.0,DDR4,14.0,1.0,52990,medium,excellent
+282,ASUS,TUF Gaming F15,Core i5 11th Gen 11260H,16,512.0,4.3,60.0,DDR4,16.0,1.0,52990,medium,good
+283,Infinix,Y4 Max Series,Core i7 13th Gen 1355U,16,512.0,4.1,60.0,DDR4X,16.0,1.0,52990,medium,good
+284,MSI,GF63 Intel Core,Core i5 11th Gen 11260H,8,512.0,4.2,60.0,DDR4,16.0,2.0,52990,medium,good
+285,SAMSUNG,Galaxy Book 2,Core i5 12th Gen 1235U,16,512.0,4.3,60.0,DDR4,16.0,1.0,52990,medium,good
+286,Infinix,INBook X2 Plus Intel,Core i5 11th Gen 1155G7,16,512.0,4.3,60.0,DDR4X,16.0,1.0,52990,medium,good
+287,Infinix,ZERO BOOK Series,Core i5 12th Gen 12500H,16,512.0,4.2,23.0,DDR5,16.0,1.0,52990,medium,good
+288,HP,15s Intel Core,Core i5 12th Gen 1235U,16,512.0,4.1,31.0,DDR4,16.0,1.0,53499,medium,good
+289,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,16,512.0,4.3,36.0,DDR4,16.0,1.0,53990,medium,good
+290,Lenovo,Ideapad Intel Core,Core i5 11th Gen 11320H,16,512.0,4.2,13.0,DDR4,16.0,2.0,54490,medium,good
+291,HP,Victus Intel Core,Core i5 11th Gen 11400H,8,512.0,4.4,81.0,DDR4,16.0,1.0,54500,medium,good
+292,ASUS,Vivobook 15X OLED,Ryzen 5 Hexa Core 7530U,16,1000.0,3.9,2.0,DDR4,16.0,1.0,54990,medium,average
+293,ASUS,Vivobook 15 Intel Core,Core i5 12th Gen 12500H,16,512.0,3.9,7.0,DDR4,16.0,2.0,54990,medium,average
+294,Lenovo,IdeaPad Slim 3,Core i5 12th Gen 12450H,16,512.0,4.2,13.0,DDR5,14.0,1.0,54990,medium,good
+295,Acer,Aspire 5 Intel,Intel Core i5 13th Gen,8,512.0,4.2,13.0,DDR4,16.0,1.0,54990,medium,good
+296,HP,Pavilion x360 Intel,Core i3 12th Gen 1215U,8,512.0,4.4,5.0,DDR4,14.0,1.0,55208,medium,good
+297,HP,AMD Ryzen 7,Ryzen 7 Octa Core 5700U,16,512.0,4.2,13.0,DDR4,16.0,1.0,55400,medium,good
+298,Acer,Aspire 7 Intel,Core i5 12th Gen 1240P,16,512.0,4.3,60.0,DDR4,16.0,1.0,55490,medium,good
+299,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,8,512.0,4.4,74.0,DDR4,16.0,1.0,55490,medium,good
+300,Acer,Aspire 7 (2023,Core i5 12th Gen 12450H,16,512.0,4.2,60.0,DDR4,16.0,1.0,55490,medium,good
+301,ASUS,Intel Core i5,Intel Core i5 12th Gen,16,512.0,4.2,13.0,DDR4,16.0,1.0,55980,medium,good
+302,HP,Intel Core i5,Core i5 13th Gen 1335U,8,512.0,4.2,33.0,DDR4,16.0,1.0,55990,medium,good
+303,Lenovo,IdeaPad Gaming 3,Ryzen 5 Hexa Core 7535HS,16,512.0,4.1,12.0,DDR5,16.0,1.0,55990,medium,good
+304,Acer,Aspire Vero Intel,Core i5 13th Gen 1335U,16,512.0,4.3,2.0,DDR4X,14.0,1.0,55990,medium,good
+305,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,8,512.0,4.2,13.0,DDR4,16.0,1.0,55990,medium,good
+306,Acer,Aspire 5 15,Core i5 13th Gen 1335U,16,512.0,4.4,3.0,DDR5,16.0,1.0,55990,medium,good
+307,Lenovo,Intel Core i5,Core i5 13th Gen 1355U,16,512.0,4.2,13.0,DDR5,16.0,1.0,55990,medium,good
+308,Lenovo,IdeaPad Slim 5i,Core i5 11th Gen 1135G7,16,512.0,4.4,60.0,DDR4,16.0,1.0,56199,medium,good
+309,ASUS,Intel Core i5,Intel Core i5 11th Gen,8,512.0,4.2,13.0,DDR4,17.0,1.0,56499,medium,good
+310,DELL,Vostro AMD Ryzen,Ryzen 5 Hexa Core 5625U,16,512.0,4.5,60.0,DDR4,14.0,1.0,56590,medium,good
+311,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,8,512.0,4.700000000000001,60.0,DDR4,16.0,1.0,56939,medium,excellent
+312,ASUS,Vivobook 15 AMD Ryzen,Ryzen 7 Octa Core 5800HS,16,512.0,4.2,108.0,DDR4,16.0,1.0,56990,medium,good
+313,SAMSUNG,Galaxy Book2 Intel,Core i5 12th Gen 1235U,8,256.0,4.5,31.0,DDR4X,16.0,1.0,56990,medium,good
+314,ASUS,Vivobook Pro 15,Ryzen 5 Hexa Core 5600HS,16,512.0,3.9,1.0,DDR4,16.0,1.0,56999,medium,average
+315,HP,Victus Intel Core,Core i5 12th Gen 12450H,8,512.0,4.2,4.0,DDR4,16.0,1.0,57490,medium,good
+316,ASUS,VivoBook 16X AMD,Ryzen 7 Octa Core 5800HS,16,512.0,4.4,12.0,DDR4,16.0,1.0,57790,medium,good
+317,Lenovo,Intel Core i7,Core i7 12th Gen 1255U,16,512.0,4.2,44.0,DDR4,16.0,1.0,57990,medium,good
+318,HP,Pavilion AMD Ryzen,Ryzen 5 Hexa Core 5500U,16,1000.0,4.3,60.0,DDR4,16.0,1.0,57990,medium,good
+319,HP,14s Intel Core,Core i5 11th Gen 1135G7,8,512.0,4.2,25.0,DDR4,14.0,1.0,57990,medium,good
+320,HP,Pavilion x360 Intel,Core i3 12th Gen 1215U,8,512.0,4.3,1.0,DDR4,16.0,1.0,57990,medium,good
+321,Infinix,INBook X2 Plus Intel,Core i7 11th Gen 1195G7,16,512.0,4.0,17.0,DDR4X,16.0,1.0,57990,medium,average
+322,ASUS,TUF Gaming F15,Core i5 10th Gen 10300H,16,512.0,4.6,60.0,DDR4,16.0,1.0,57999,medium,excellent
+323,HP,Victus Intel Core,Core i5 11th Gen 11400H,16,512.0,4.3,4.0,DDR4,16.0,1.0,57999,medium,good
+324,HP,Victus Intel Core,Core i5 12th Gen 12450H,8,512.0,4.3,37.0,DDR4,16.0,1.0,58990,medium,good
+325,MSI,GF63 Intel Core,Core i5 11th Gen 11260H,16,512.0,4.2,19.0,DDR4,16.0,2.0,58990,medium,good
+326,ASUS,Vivobook S 14,Ryzen 5 Hexa Core 5600HS,8,512.0,4.4,46.0,DDR4,14.0,1.0,58990,medium,good
+327,Lenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512.0,4.3,60.0,DDR5,16.0,1.0,59390,medium,good
+328,Lenovo,IdeaPad Slim 3,Core i5 13th Gen 13420H,16,512.0,4.3,60.0,DDR5,16.0,1.0,59390,medium,good
+329,DELL,Inspiron Intel Core,Core i5 13th Gen 1335U,8,512.0,3.9,2.0,DDR5,14.0,2.0,59450,medium,average
+330,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,16,512.0,4.2,3.0,DDR4,16.0,1.0,59490,medium,good
+331,ASUS,Pro P5 Intel Core,Core i7 8th Gen 8565U,8,1000.0,4.2,13.0,DDR4,14.0,1.0,59699,medium,good
+332,ASUS,Intel Core i5,Core i5 13th Gen 1335U,16,512.0,3.9,1.0,DDR4,16.0,1.0,59990,medium,average
+333,Infinix,ZEROBOOK 13 Intel Intel,Core i7 13th Gen 13700H,16,512.0,4.2,29.0,DDR5X,16.0,1.0,59990,medium,good
+334,ASUS,Vivobook Pro 15,Ryzen 5 Hexa Core 5600HS,8,512.0,4.4,60.0,DDR4,16.0,1.0,59990,medium,good
+335,DELL,Inspiron 15 3530,Intel Core i5 13th Gen,8,1000.0,4.1,1.0,DDR4,16.0,1.0,59990,medium,good
+336,ASUS,Vivobook 15X (2023,Core i5 13th Gen 1315U,16,512.0,4.2,9.0,DDR4,16.0,1.0,59990,medium,good
+337,ASUS,TUF Gaming F15,Core i5 11th Gen 11400H,16,512.0,4.5,60.0,DDR4,16.0,1.0,59990,medium,good
+338,ASUS,ROG Ally AMD,Ryzen Z1 Octa Core Extreme,16,512.0,4.6,84.0,DDR5,16.0,1.0,59990,medium,excellent
+339,HP,Intel Core i5,Core i5 13th Gen 1335U,8,512.0,4.1,2.0,DDR4,16.0,1.0,59990,medium,good
+340,HP,15s (2023,Core i5 13th Gen 1335U,8,512.0,4.2,33.0,DDR4,16.0,1.0,59990,medium,good
+341,Lenovo,IdeaPad Slim 5,Core i5 12th Gen 12450H,16,512.0,4.2,12.0,DDR5,14.0,1.0,60190,medium,good
+342,Lenovo,IdeaPad Slim 5,Ryzen 7 Octa Core 7730U,16,512.0,4.7,4.0,DDR4,14.0,1.0,60190,medium,excellent
+343,ASUS,Vivobook Pro 15,Ryzen 7 Octa Core 5800HS,16,512.0,4.4,17.0,DDR4,16.0,1.0,60990,medium,good
+344,DELL,Inspiron 5620 Intel,Core i5 12th Gen 1235U,16,512.0,4.2,13.0,DDR5,16.0,1.0,61990,medium,good
+345,HP,Pavilion Intel Core,Core i5 12th Gen 1235U,16,512.0,4.3,60.0,DDR4,14.0,1.0,62490,medium,good
+346,HP,Pavilion Intel Core,Core i5 11th Gen 1155G7,16,512.0,4.4,25.0,DDR4,14.0,1.0,62754,medium,good
+347,HP,Victus AMD Ryzen,Ryzen 5 Hexa Core 5600H,16,512.0,4.4,74.0,DDR4,16.0,1.0,62900,medium,good
+348,ASUS,Intel Core i5,Intel Core i5 13th Gen,16,512.0,4.2,13.0,DDR4,16.0,1.0,62990,medium,good
+349,Lenovo,IdeaPad Gaming 3,Core i5 11th Gen 11300H,8,512.0,4.3,46.0,DDR4,16.0,2.0,62990,medium,good
+350,Lenovo,IdeaPad Gaming 3,Ryzen 7 Octa Core 6800H,8,512.0,4.5,15.0,DDR5,16.0,2.0,62990,medium,good
+351,SAMSUNG,Galaxy Book3 Intel,Core i5 13th Gen 1335U,8,512.0,4.5,110.0,DDR4X,16.0,1.0,62990,medium,good
+352,Lenovo,Yoga Slim 6,Core i5 12th Gen 1240P,16,512.0,4.3,60.0,DDR5,14.0,1.0,63400,medium,good
+353,HP,AMD Ryzen 7,Ryzen 7 Octa Core 5700U,16,1000.0,4.2,13.0,DDR4,16.0,1.0,63990,medium,good
+354,MSI,GF63 Intel Core,Core i7 11th Gen 11800H,16,1000.0,4.3,44.0,DDR4,16.0,2.0,63990,medium,good
+355,Lenovo,IdeaPad Flex 5,Ryzen 5 Hexa Core 7530U,16,512.0,4.5,4.0,DDR4X,14.0,2.0,64400,medium,good
+356,LG,Gram Intel Core,Core i5 12th Gen 1240P,8,512.0,4.3,60.0,DDR5,14.0,1.0,64762,medium,good
+357,MSI,Modern 14 Intel Core,Core i7 13th Gen 1355U,16,512.0,4.1,4.0,DDR4,14.0,1.0,64990,medium,good
+358,HP,Intel Core i5,Core i5 13th Gen 1335U,16,512.0,4.1,2.0,DDR4,16.0,1.0,64990,medium,good
+359,ASUS,Intel Core i5,Intel Core i5 13th Gen,16,512.0,4.5,2.0,DDR4,16.0,1.0,64990,medium,good
+360,HP,Pavilion Intel Core,Core i5 12th Gen 1240P,8,512.0,4.3,61.0,DDR4,16.0,2.0,65490,medium,good
+361,Colorful,Evol P-15,Core i5 12th Gen 12450H,16,512.0,4.2,13.0,DDR5,16.0,2.0,65640,medium,good
+362,ASUS,Vivobook Pro 15,Ryzen 7 Octa Core 5800HS,16,512.0,4.3,24.0,DDR4,16.0,1.0,65990,medium,good
+363,Acer,Swift Go 14,Core i5 13th Gen 13500H,16,512.0,4.4,8.0,DDR5,14.0,1.0,65990,medium,good
+364,ASUS,Vivobook S 14,Core i5 12th Gen 12500H,16,512.0,4.3,60.0,DDR4,14.0,1.0,65990,medium,good
+365,MSI,Prestige 14 Intel Core,Core i7 10th Gen 10510U,16,512.0,3.9,14.0,DDR4,14.0,1.0,66047,medium,average
+366,ASUS,Vivobook 16 (2023,Ryzen 5 Hexa Core 7530U,16,1000.0,4.5,7.0,DDR4,16.0,1.0,66990,medium,good
+367,Lenovo,IdeaPad Gaming 3,Core i5 12th Gen 12450H,16,512.0,4.3,58.0,DDR4,16.0,2.0,67990,medium,good
+368,MSI,GF63 Intel Core,Core i5 12th Gen 12450H,16,512.0,4.3,11.0,DDR4,16.0,2.0,67990,medium,good
+369,DELL,Inspiron 5430 Intel,Intel Core i5 13th Gen,16,512.0,3.9,1.0,DDR5,14.0,1.0,67990,medium,average
+370,HP,Victus AMD Ryzen,Ryzen 7 Octa Core 5800H,16,512.0,4.5,60.0,DDR4,16.0,1.0,68990,medium,good
+371,Acer,Nitro 5 (2023,Ryzen 5 Hexa Core 7535HS,16,512.0,4.4,4.0,DDR5,16.0,1.0,68990,medium,good
+372,HP,Victus AMD Ryzen,Ryzen 7 Octa Core 5800H,16,512.0,4.4,31.0,DDR4,16.0,1.0,68990,medium,good
+373,DELL,Inspiron Intel Core,Core i7 13th Gen 1355U,16,512.0,4.2,60.0,DDR4,16.0,1.0,68990,medium,good
+374,Lenovo,IdeaPad Slim 5i,Core i5 13th Gen 13500H,16,512.0,4.2,13.0,DDR5,16.0,1.0,69000,medium,good
+375,HP,Pavilion Intel Core,Core i5 11th Gen 1135G7,16,512.0,4.5,8.0,DDR4,14.0,1.0,69000,medium,good
+376,DELL,Inspiron Intel Core,Core i5 11th Gen 1155G7,16,512.0,4.2,16.0,DDR4,14.0,1.0,69749,medium,good
+377,ASUS,Vivobook Pro 15,Core AMD Ryzen 5 5600H,16,512.0,4.2,13.0,DDR4,16.0,1.0,69899,medium,good
+378,ASUS,ExpertBook B9 Intel Core,Core i5 10th Gen 10210U,8,512.0,4.2,13.0,DDR3,14.0,1.0,69911,medium,good
+379,SAMSUNG,Galaxy Book3 Intel,Core i5 13th Gen 1335U,16,512.0,4.5,110.0,DDR4X,16.0,1.0,69990,medium,good
+380,ASUS,TUF Gaming F17,Core i5 12th Gen 12500H,8,512.0,4.6,1.0,DDR4,17.0,1.0,69990,medium,excellent
+381,ASUS,Vivobook 16X Intel,Core i5 12th Gen 12500H,8,512.0,4.2,13.0,DDR4,16.0,1.0,69990,medium,good
+382,SAMSUNG,Galaxy Book2 Pro,Core i5 12th Gen 1240P,16,512.0,4.6,60.0,DDR5,13.0,1.0,69990,medium,excellent
+383,HP,Pavilion Intel Core,Core i5 12th Gen 1235U,16,1000.0,4.3,60.0,DDR4,14.0,1.0,70250,medium,good
+384,ASUS,ExpertBook P2 Intel Core,Core i7 10th Gen 10510U,8,1000.0,4.2,13.0,DDR4,14.0,1.0,70279,medium,good
+385,ASUS,TUF Gaming F15,Core i5 12th Gen 12500H,16,512.0,4.5,39.0,DDR4,16.0,1.0,70990,medium,good
+386,GIGABYTE,G Series Intel,Core i5 12th Gen 12450H,16,512.0,3.9,60.0,DDR4,16.0,2.0,71990,medium,average
+387,Lenovo,IdeaPad Slim 5,Core i5 13th Gen 13500H,16,512.0,4.2,37.0,DDR5,16.0,1.0,71990,medium,good
+388,Acer,Nitro 5 Intel,Core i5 12th Gen 12450H,16,512.0,4.5,65.0,DDR4,16.0,1.0,71999,medium,good
+389,Lenovo,Ideapad Gaming 3,Ryzen 5 Hexa Core 5600H,16,512.0,4.4,79.0,DDR4,16.0,1.0,72000,medium,good
+390,DELL,Inspiron 5430 Intel,Intel Core i5 13th Gen,16,1000.0,3.9,6.0,DDR5,14.0,1.0,72400,medium,average
+391,DELL,G15 Intel Core,Core i5 12th Gen 12500H,16,512.0,4.1,30.0,DDR5,16.0,1.0,72400,medium,good
+392,ASUS,VivoBook Gaming Intel,Core i5 9th Gen 9300H,8,1000.0,4.3,26.0,DDR4,16.0,1.0,72500,medium,good
+393,Lenovo,ThinkPad E14 Intel,Core i5 12th Gen 1235U,16,1000.0,3.9,1.0,DDR4,14.0,1.0,72990,medium,average
+394,HP,Intel Core i5,Core i5 12th Gen 12450H,8,512.0,4.2,13.0,DDR4,16.0,1.0,72990,medium,good
+395,ASUS,Vivobook S 14,Core i5 13th Gen 1335U,16,512.0,3.9,60.0,DDR4,14.0,1.0,72990,medium,average
+396,Acer,AMD Ryzen 5,Ryzen 5 Hexa Core 6600H,8,1000.0,4.2,13.0,DDR5,16.0,1.0,73039,medium,good
+397,ASUS,AMD Ryzen 7,7 Octa Core 10th Gen,16,512.0,4.2,13.0,DDR4,16.0,1.0,73950,medium,good
+398,ASUS,Vivobook Pro 15,Ryzen 7 Octa Core 5800HS,16,512.0,4.4,2.0,DDR4,16.0,2.0,73990,medium,good
+399,Acer,Nitro V Intel,Core i5 13th Gen 13420H,16,512.0,4.7,60.0,DDR5,16.0,1.0,73990,medium,excellent
+400,Acer,Nitro 5 AMD,Ryzen 7 Octa Core 5800H,16,1000.0,4.4,46.0,DDR4,16.0,1.0,73990,medium,good
+401,Apple,2020 Macbook Air,2020 Macbook Air Apple M1,8,256.0,4.7,60.0,DDR4,13.0,1.0,73990,medium,excellent
+402,HP,Pavilion Intel Core,Core i7 12th Gen 1255U,16,1000.0,4.2,17.0,DDR4,14.0,1.0,74499,medium,good
+403,ASUS,AMD Ryzen 7,Octa Core 10th Gen 5800H,16,512.0,4.2,13.0,DDR4,16.0,1.0,74850,medium,good
+404,DELL,Inspiron 5000 Intel,Core i5 13th Gen 1340P,16,512.0,4.2,13.0,DDR5,16.0,1.0,74890,medium,good
+405,Infinix,ZEROBOOK 13 Intel Intel,Core i9 13th Gen 13900H,32,1000.0,4.2,103.0,DDR5X,16.0,1.0,74990,medium,good
+406,DELL,Inspiron Intel Core,Core i5 13th Gen 13450HX,8,512.0,4.2,13.0,DDR5,16.0,1.0,74990,medium,good
+407,HP,Pavilion Intel Core,Core i5 13th Gen 1335U,16,1000.0,4.3,23.0,DDR4,16.0,1.0,74990,medium,good
+408,Apple,2020 Macbook Air,2020 Macbook Air Apple M1,8,256.0,4.7,60.0,DDR4,13.0,1.0,74990,medium,excellent
+409,ASUS,Vivobook S14 OLED,Core i5 12th Gen 12500H,16,512.0,4.4,60.0,DDR4,14.0,1.0,74990,medium,good
+410,HP,Pavilion (2023,Core i5 12th Gen 1240P,16,512.0,4.2,12.0,DDR4,16.0,2.0,75490,medium,good
+411,Lenovo,IdeaPad Slim 5,Intel Core Ultra 5 125H,16,1000.0,4.5,15.0,DDR5X,16.0,1.0,75990,medium,good
+412,Infinix,ZERO BOOK ULTRA,Core i9 12th Gen 12900H,16,512.0,4.4,13.0,DDR5,16.0,1.0,75990,medium,good
+413,HP,Pavilion x360 Intel,Core i5 13th Gen 1335U,16,1000.0,4.3,22.0,DDR4,14.0,1.0,76321,medium,good
+414,Lenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512.0,4.6,8.0,DDR4X,14.0,1.0,77190,medium,excellent
+415,Lenovo,IdeaPad Flex 5,Core i7 13th Gen 1355U,16,512.0,4.700000000000001,2.0,DDR4X,14.0,2.0,77190,medium,excellent
+416,Lenovo,IdeaPad Flex 5,Core i5 13th Gen 1335U,16,512.0,4.6,8.0,DDR4X,14.0,1.0,77190,medium,excellent
+417,ASUS,ROG Strix G15,Ryzen 7 Octa Core 6800HS,16,512.0,4.4,57.0,DDR5,16.0,1.0,77990,medium,good
+418,HP,Envy x360 Creator,Core i5 12th Gen 1230U,16,512.0,4.3,21.0,DDR4X,16.0,1.0,78500,medium,good
+419,ASUS,Vivobook 16X For,Core i7 12th Gen 12650H,16,512.0,4.3,9.0,DDR4,16.0,1.0,78990,medium,good
+420,MSI,Modern 14 H Intel,Core i9 13th Gen 13900H,16,1000.0,4.2,13.0,DDR4,14.0,1.0,78990,medium,good
+421,HP,Victus Intel Core,Core i7 12th Gen 12650H,16,512.0,4.5,10.0,DDR4,16.0,1.0,78990,medium,good
+422,Lenovo,IdeaPad Flex 5,Ryzen 5 Hexa Core 5500U,8,512.0,4.7,13.0,DDR4,14.0,1.0,79000,medium,excellent
+423,HP,Pavilion x360 Intel,Core i5 13th Gen 1335U,16,1000.0,4.5,5.0,DDR4,14.0,1.0,79019,medium,good
+424,Colorful,Evol P-15,Core i7 12th Gen 12650H,16,512.0,4.2,13.0,DDR5,16.0,2.0,79192,medium,good
+425,Colorful,Evol P-15,Core i7 12th Gen 12650H,16,512.0,4.2,13.0,DDR5,16.0,2.0,79590,medium,good
+426,MICROSOFT,Laptop Go 3 Intel,Core i5 12th Gen 1235U,8,256.0,3.9,1.0,DDR5,12.0,1.0,79990,medium,average
+427,SAMSUNG,Galaxy Book4 Intel,Book4 Intel Core 5 120U,16,512.0,4.7,4.0,DDR4X,16.0,1.0,79990,medium,excellent
+428,Lenovo,LOQ Intel Core,Core i5 12th Gen 12450H,16,512.0,4.5,68.0,DDR5,16.0,2.0,79990,medium,good
+429,Acer,Nitro V Intel,Core i5 13th Gen 13420H,16,512.0,4.4,6.0,DDR5,16.0,1.0,79990,medium,good
+430,ASUS,Zenbook 14 OLED (2023,Ryzen 5 Hexa Core 7530U,16,512.0,4.6,3.0,DDR4X,14.0,1.0,79990,medium,excellent
+431,ASUS,Vivobook Pro 15,Core i5 12th Gen 12450H,16,512.0,4.4,23.0,DDR5,16.0,1.0,79999,medium,good
+432,DELL,Intel Core i5,DELL Intel Core i5 13450HX,8,512.0,4.7,1.0,DDR5,16.0,1.0,81402,medium,excellent
+433,HP,Victus Intel Core,Core i7 12th Gen 12650H,16,512.0,4.3,3.0,DDR4,16.0,1.0,81503,medium,good
+434,HP,Victus AI Powered AMD,Ryzen 7 Octa Core 7840HS,16,512.0,4.4,19.0,DDR5,16.0,1.0,81990,medium,good
+435,HP,Envy x360 (2023,Ryzen 5 Hexa Core 7530U,16,512.0,4.2,13.0,DDR4X,16.0,1.0,81990,medium,good
+436,MSI,Katana 15 Intel Core,Core i5 12th Gen 12450H,8,512.0,4.3,10.0,DDR5,16.0,2.0,81990,medium,good
+437,HP,Envy x360 Creator,Core i5 12th Gen 1230U,8,512.0,4.5,16.0,DDR4X,13.0,1.0,81990,medium,good
+438,SAMSUNG,Galaxy Book3 Intel,Core i7 13th Gen 1355U,16,512.0,4.4,53.0,DDR4X,16.0,1.0,81990,medium,good
+439,Lenovo,ThinkBook 15 Intel Core,Core i7 12th Gen 1255U,16,512.0,4.2,13.0,DDR4,16.0,1.0,82990,medium,good
+440,HP,Envy x360 (2023,Ryzen 7 Octa Core 7730U,16,512.0,4.2,13.0,DDR5,16.0,1.0,82990,medium,good
+441,ASUS,AMD Ryzen 7,7 Octa Core 6th Gen,16,1000.0,4.2,60.0,DDR4,17.0,1.0,83614,medium,good
+442,DELL,Inspiron 5430 Intel,Core i7 13th Gen 1360P,16,1000.0,4.0,60.0,DDR5,14.0,1.0,83690,medium,average
+443,ASUS,Vivobook S15 OLED,Core i7 12th Gen 12700H,16,512.0,4.2,8.0,DDR4,16.0,1.0,84990,medium,good
+444,ASUS,TUF Gaming F17,Core i7 11th Gen 11800H,16,512.0,4.3,33.0,DDR4,17.0,1.0,84990,medium,good
+445,Lenovo,IdeaPad Slim 5,Core i7 13th Gen 13620H,16,512.0,4.2,11.0,DDR5,14.0,1.0,86190,medium,good
+446,DELL,Intel Core i7,Intel Core i7 12th Gen,16,512.0,4.3,60.0,DDR4,13.0,1.0,86500,medium,good
+447,DELL,Inspiron Intel Core,Core i7 12th Gen 1255U,16,512.0,4.2,2.0,DDR4,14.0,1.0,86990,medium,good
+448,MSI,GF63 Intel Core,Core i5 12th Gen 12450H,16,1000.0,4.5,22.0,DDR4,16.0,2.0,86990,medium,good
+449,MSI,GF63 Intel Core,Core i5 12th Gen 12450H,16,1000.0,4.4,12.0,DDR4,16.0,2.0,86990,medium,good
+450,MSI,Katana 15 Intel Core,Core i5 12th Gen 12450H,16,1000.0,4.5,1.0,DDR5,16.0,2.0,87990,medium,good
+451,HP,Envy x360 Creator,Core i5 12th Gen 1230U,16,512.0,4.5,16.0,DDR4X,13.0,1.0,87990,medium,good
+452,ASUS,Vivobook 14X OLED,Core i5 13th Gen 13500H,16,512.0,3.9,60.0,DDR4,14.0,1.0,88941,medium,average
+453,HP,Intel Core i7,Core i7 12th Gen 1255U,16,512.0,4.2,13.0,DDR4,16.0,1.0,88990,medium,good
+454,Colorful,Evol P-15,Core i7 13th Gen 13620H,16,512.0,4.2,13.0,DDR5,16.0,2.0,89540,medium,good
+455,SAMSUNG,Galaxy Book4 Intel,Book4 Intel Core 7 150U,16,512.0,4.2,1.0,DDR4X,16.0,1.0,89990,medium,good
+456,MSI,Bravo 15 AMD Ryzen,7th Gen Ryzen 7 7735HS,16,1000.0,4.2,13.0,DDR5,16.0,1.0,89990,medium,good
+457,HP,OMEN Intel Core,Core i5 13th Gen 13420H,16,512.0,4.3,11.0,DDR5,16.0,1.0,90990,medium,good
+458,HP,Intel Core i7,Intel Core i7 12th Gen,16,1000.0,4.700000000000001,1.0,DDR4,16.0,1.0,91200,medium,excellent
+459,Acer,Nitro 5 AMD,Ryzen 5 Hexa Core 5600H,16,1000.0,4.5,48.0,DDR4,16.0,1.0,91499,medium,good
+460,ASUS,TUF Dash F15,Core i7 12th Gen 12650H,16,1000.0,4.5,22.0,DDR5,16.0,1.0,91500,medium,good
+461,HP,Pavilion x360 Intel,Intel Core i7 13th Gen,16,512.0,4.4,2.0,DDR4,14.0,1.0,92490,medium,good
+462,Lenovo,Yoga Slim 6,Core i7 13th Gen 13700H,16,512.0,4.700000000000001,1.0,DDR5X,14.0,1.0,92690,medium,excellent
+463,MSI,GF63 Intel Core,Core i7 12th Gen 12650H,16,512.0,4.4,12.0,DDR4,16.0,2.0,92990,medium,good
+464,MSI,Prestige 13 Evo Intel,Core i7 13th Gen 1360P,16,1000.0,4.2,4.0,DDR5,13.0,2.0,92990,medium,good
+465,ASUS,Vivobook Flip S,Core i5 12th Gen 12500H,8,512.0,4.4,8.0,DDR4,14.0,1.0,94000,medium,good
+466,Lenovo,IdeaPad Slim 5,Core i7 12th Gen 1255U,16,512.0,4.2,3.0,DDR4,16.0,1.0,94000,medium,good
+467,Acer,Nitro V Intel,Core i7 13th Gen 13620H,16,512.0,4.2,13.0,DDR5,16.0,1.0,94999,medium,good
+468,ASUS,ROG Strix G15,Ryzen 7 Octa Core 6800HS,16,1000.0,4.4,57.0,DDR5,16.0,1.0,94999,medium,good
+469,DELL,Intel Core i5,Core i5 11th Gen 11260H,16,512.0,4.1,34.0,DDR4,16.0,2.0,95999,medium,good
+470,Lenovo,LOQ Intel Core,Core i7 13th Gen 13620H,16,512.0,4.2,24.0,DDR5,16.0,2.0,96990,medium,good
+471,MSI,GF63 Intel Core,Core i7 12th Gen 12650H,16,1000.0,4.4,12.0,DDR4,16.0,2.0,96990,medium,good
+472,Apple,2022 MacBook AIR,2022 MacBook AIR Apple M2,8,256.0,4.700000000000001,60.0,DDR4,14.0,1.0,96990,medium,excellent
+473,Lenovo,IdeaPad Gaming 3,Core i7 12th Gen 12700H,16,512.0,4.6,2.0,DDR4,16.0,1.0,97790,medium,excellent
+474,HP,Envy Intel Core,Core i5 11th Gen 1135G7,16,512.0,4.2,6.0,DDR4,13.0,1.0,99203,medium,good
+475,MSI,GF63 Intel Core,Core i7 12th Gen 12650H,16,512.0,4.3,6.0,DDR4,16.0,2.0,99990,medium,good
+476,MSI,Katana 15 Intel Core,Core i7 12th Gen 12650H,16,1000.0,4.6,5.0,DDR5,16.0,2.0,99990,medium,excellent
+477,ASUS,TUF Gaming F15,Core i7 12th Gen 12700H,16,512.0,4.4,21.0,DDR4,16.0,1.0,99990,medium,good
+478,ASUS,Zenbook 14 Flip OLED,Core i5 13th Gen 1340P,16,512.0,4.4,4.0,DDR5,14.0,1.0,99990,medium,good
+479,MICROSOFT,Laptop Go 3 Intel,Core i5 12th Gen 1235U,16,256.0,4.2,13.0,DDR5,12.0,1.0,99990,medium,good
+480,HP,Intel Core i7,Intel Core i7 12th Gen,16,512.0,4.2,13.0,DDR4X,13.0,1.0,101790,high,good
+481,ASUS,Intel Core i7,Intel Core i7 12th Gen,16,512.0,4.2,13.0,DDR4,16.0,1.0,101899,high,good
+482,ASUS,Vivobook S 15,Core i7 13th Gen 13700H,16,512.0,4.3,2.0,DDR5,16.0,1.0,105990,high,good
+483,MSI,Prestige 13 AI Evo,Intel Core Ultra 7 155H,16,1000.0,4.2,13.0,DDR5,13.0,2.0,106990,high,good
+484,Lenovo,Yoga Slim 7,Intel Core Ultra 7 155H,32,1000.0,4.2,13.0,DDR5X,14.0,1.0,107990,high,good
+485,Apple,2022 MacBook AIR,2022 MacBook AIR Apple M2,8,512.0,4.6,5.0,DDR4,14.0,1.0,107990,high,excellent
+486,Apple,2022 MacBook AIR,2022 MacBook AIR Apple M2,8,512.0,4.6,3.0,DDR4,14.0,1.0,107990,high,excellent
+487,Apple,MacBook Air Apple,Apple MacBook Air Apple M3,8,256.0,4.700000000000001,4.0,DDR4,13.0,1.0,107990,high,excellent
+488,ASUS,Vivobook S 15,Core i9 13th Gen 13900H,16,1000.0,4.4,6.0,DDR5,16.0,1.0,109900,high,good
+489,HP,Envy x360 Creator,Core i7 12th Gen 1250U,16,512.0,4.3,10.0,DDR4X,13.0,1.0,110700,high,good
+490,DELL,Intel Core i7,Intel Core i7 12th Gen,16,512.0,4.2,13.0,DDR5,13.0,1.0,111990,high,good
+491,HP,Intel Core i7,Core i7 13th Gen 1355U,16,512.0,4.2,13.0,DDR5,16.0,1.0,113990,high,good
+492,MSI,Cyborg 15 AI Intel,Intel Core Ultra 7 155H,16,1000.0,4.2,13.0,DDR5,16.0,2.0,114990,high,good
+493,Lenovo,Lenovo LOQ AI,Ryzen 7 Octa Core 7840HS,16,512.0,4.5,8.0,DDR5,16.0,2.0,116990,high,good
+494,HP,OMEN Intel Core,Core i7 11th Gen 11800H,16,1000.0,4.1,2.0,DDR4,16.0,1.0,117900,high,good
+495,ASUS,Zenbook S 13,Core i7 13th Gen 1335U,16,512.0,4.2,1.0,DDR5,13.0,1.0,119990,high,good
+496,MSI,Prestige 16 AI Evo,Intel Core Ultra 7 155H,16,1000.0,4.2,13.0,DDR5,16.0,2.0,119990,high,good
+497,Acer,Predator Neo (2023,Core i7 13th Gen 13700HX,16,1000.0,4.6,62.0,DDR5,16.0,1.0,119999,high,excellent
+498,SAMSUNG,Galaxy Book4 360,Evo Intel Core 7 150U,16,512.0,4.2,2.0,DDR5,16.0,2.0,122990,high,good
+499,HP,OMEN Intel Core,Core i7 12th Gen 12700H,16,1000.0,4.2,13.0,DDR5,16.0,2.0,122990,high,good
+500,ASUS,TUF Gaming A17,Ryzen 7 Octa Core 6800HS,16,1000.0,4.2,2.0,DDR5,17.0,1.0,122999,high,good
+501,ASUS,Zenbook S 13,Ryzen 7 Octa Core 6800U,16,1000.0,4.2,13.0,DDR5,13.0,1.0,123999,high,good
+502,SAMSUNG,Galaxy Book3 Pro,Core i7 13th Gen 1360P,16,512.0,4.1,1.0,DDR5,14.0,1.0,124990,high,good
+503,Apple,MacBook Air Apple,Apple MacBook Air Apple M3,8,256.0,4.700000000000001,4.0,DDR4,15.0,1.0,126890,high,excellent
+504,Apple,MacBook Air Apple,Apple MacBook Air Apple M3,8,512.0,4.700000000000001,4.0,DDR4,13.0,1.0,126890,high,excellent
+505,Lenovo,Lenovo Legion Slim,Ryzen 7 Octa Core 7840HS,16,512.0,4.2,60.0,DDR5,16.0,1.0,128990,high,good
+506,HP,OMEN ARM Ryzen,ARM Ryzen 7 Octa Core,16,512.0,4.2,13.0,DDR5,16.0,1.0,129490,high,good
+507,Lenovo,Yoga Slim 7,Core i7 13th Gen 1360P,16,1000.0,4.2,13.0,DDR5,13.0,1.0,129889,high,good
+508,ASUS,ROG Flow X16,Ryzen 7 Octa Core 6800HS,16,1000.0,4.5,2.0,DDR5,16.0,1.0,129990,high,good
+509,SAMSUNG,Galaxy Book3 360,Core i7 13th Gen 1360P,16,1000.0,4.7,5.0,DDR4X,16.0,1.0,133990,high,excellent
+510,MSI,GP76 Intel Core,Core i7 11th Gen 11800H,16,1000.0,4.4,6.0,DDR4,17.0,2.0,135875,high,good
+511,HP,ENVY Intel Core,Intel Core Ultra 7 155U,32,1000.0,4.2,13.0,DDR5,14.0,1.0,136342,high,good
+512,SAMSUNG,Galaxy Book3 Pro,Core i7 13th Gen 1360P,16,1000.0,4.1,1.0,DDR5,14.0,1.0,140990,high,good
+513,SAMSUNG,Galaxy Book4 Pro,Intel Core Ultra 5 125H,16,512.0,4.7,60.0,DDR5X,16.0,2.0,141990,high,excellent
+514,HP,OMEN Intel Core,Core i7 14th Gen 14700HX,16,1000.0,4.2,13.0,DDR5,16.0,1.0,142490,high,good
+515,Apple,MacBook Air Apple,Apple MacBook Air Apple M3,8,512.0,4.700000000000001,4.0,DDR4,15.0,1.0,145490,high,excellent
+516,SAMSUNG,Galaxy Book3 Pro,Core i5 13th Gen 1340P,16,512.0,4.2,13.0,DDR5,16.0,1.0,145990,high,good
+517,MSI,Katana 17 Intel Core,Core i7 12th Gen 12650H,16,1000.0,4.700000000000001,1.0,DDR5,17.0,2.0,149990,high,excellent
+518,SAMSUNG,Galaxy Book4 Pro,Intel Core Ultra 7 155H,16,512.0,4.7,1.0,DDR5X,16.0,2.0,149990,high,excellent
+519,Acer,Predator Helios Neo,Core i7 14th Gen 14700HX,16,1000.0,4.2,13.0,DDR5,16.0,1.0,149999,high,good
+520,HP,Intel Core i7,Core i7 13th Gen 1355U,32,1000.0,4.2,13.0,DDR4X,14.0,1.0,152990,high,good
+521,HP,OMEN Intel Core,Core i7 13th Gen 13700HX,16,512.0,4.2,13.0,DDR5,16.0,1.0,153490,high,good
+522,MSI,Summit E16Flip Intel,Core i7 13th Gen 1360P,32,1000.0,4.6,60.0,DDR5,16.0,2.0,159990,high,excellent
+523,HP,Intel Core i7,Core i7 13th Gen 1355U,16,512.0,4.2,13.0,DDR4X,14.0,1.0,159999,high,good
+524,MICROSOFT,Surface Pro 9,Core i7 12th Gen 1255U,16,256.0,4.2,13.0,DDR5,13.0,1.0,162990,high,good
+525,Apple,MacBook Pro Intel,Intel Core i5 8th Gen,8,512.0,4.2,13.0,DDR3,13.0,1.0,162990,high,good
+526,MSI,Pulse 17 Intel Core,Core i7 13th Gen 13700H,16,1000.0,4.3,2.0,DDR5,17.0,2.0,164990,high,good
+527,HP,Spectre x360 Intel,Intel Core Ultra 7 155H,32,1000.0,4.2,13.0,DDR5X,14.0,1.0,168990,high,good
+528,MSI,Pulse 17 Intel Core,Core i7 13th Gen 13700H,16,1000.0,4.700000000000001,60.0,DDR5,17.0,2.0,169990,high,excellent
+529,MSI,Crosshair 16 HX Intel,Core i7 14th Gen 14700HX,32,1000.0,4.2,13.0,DDR5,16.0,2.0,172990,high,good
+530,Apple,2023 MacBook Pro,2023 MacBook Pro Apple M3,8,1000.0,4.2,13.0,DDR4,14.0,1.0,178590,high,good
+531,DELL,Alienware Intel Core,Core i7 12th Gen 12700H,16,1000.0,4.2,13.0,DDR5,16.0,1.0,179483,high,good
+532,Acer,Predator Helios Neo,Core i9 14th Gen 14900HX,16,1000.0,4.2,13.0,DDR5,16.0,1.0,179999,high,good
+533,MSI,Stealth 15 Intel Core,Core i7 13th Gen 13620H,16,1000.0,4.2,13.0,DDR5,16.0,1.0,186990,high,good
+534,HP,Spectre Folio Intel,Core i7 10th Gen 10510Y,16,512.0,4.2,13.0,DDR3,13.0,1.0,188990,high,good
+535,HP,15s Intel Core,Core i9 11th Gen 11900H,32,1000.0,4.2,13.0,DDR4,16.0,1.0,189400,high,good
+536,MSI,Pulse 17 AI Intel,Intel Core Ultra 9 185H,32,1000.0,4.2,13.0,DDR5,17.0,2.0,189990,high,good
+537,HP,Spectre x360 Intel,Intel Core Ultra 7 155H,32,1000.0,4.2,13.0,DDR5X,16.0,1.0,195990,high,good
+538,ASUS,Zenbook Pro 14,Core i5 13th Gen 13500H,16,512.0,4.2,13.0,DDR5,14.0,1.0,199990,high,good
+539,MSI,Stealth 16 AI Studio,Intel Core Ultra 7 155H,32,1000.0,4.2,13.0,DDR5,16.0,2.0,199990,high,good
+540,DELL,Alienware Intel Core,Core i7 12th Gen 12700H,32,1000.0,4.2,13.0,DDR5,17.0,1.0,237890,high,good
+541,Acer,Predator Helios 16,Core i9 14th Gen 14900HX,32,1000.0,4.2,13.0,DDR5,16.0,1.0,249999,high,good
+542,MICROSOFT,Surface Pro 9,Core i7 12th Gen 1255U,32,1000.0,4.2,13.0,DDR5,13.0,1.0,261990,high,good
+543,Apple,2023 MacBook Pro,MacBook Pro Apple M2 Max,32,1000.0,4.2,60.0,DDR4,14.0,1.0,282990,high,good
+544,Apple,2021 Macbook Pro,Macbook Pro Apple M1 Max,32,1000.0,4.2,5.0,DDR4,16.0,1.0,299990,high,good
+545,Lenovo,Legion Intel Core,Core i9 14th Gen 14900HX,32,1000.0,4.2,13.0,DDR5,16.0,2.0,374990,high,good
