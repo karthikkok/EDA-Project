@@ -1,4 +1,4 @@
-# **Project Title: Analyzing Laptop Prices on Flipkart**
+# **Project Title: Analyzing the prices of Laptops available on Flipkart based on their Specifications**
 
 ---
 
