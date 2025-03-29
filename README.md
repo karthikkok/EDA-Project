@@ -49,7 +49,7 @@ This project aims to analyze the prices of laptops available on Flipkart based o
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/flipkart_laptops.git
+   git clone https://github.com/karthikkok/flipkart_laptops.git
    cd flipkart_laptops
    ```
 
